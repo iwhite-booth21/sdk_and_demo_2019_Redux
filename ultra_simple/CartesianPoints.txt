@@ -1,0 +1,4416 @@
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0
+Angle used (Theta - Degree): 0
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 148.133 10.4396
+Angle used (Theta - Radians): 0.0703585
+Angle used (Theta - Degree): 4.03125
+Distance (Milimeters): 148.5
+
+Readings from the Lidar Scan: 
+X and Y values: 145.061 16.5277
+Angle used (Theta - Radians): 0.113446
+Angle used (Theta - Degree): 6.5
+Distance (Milimeters): 146
+
+Readings from the Lidar Scan: 
+X and Y values: 146.998 17.1951
+Angle used (Theta - Radians): 0.116446
+Angle used (Theta - Degree): 6.67188
+Distance (Milimeters): 148
+
+Readings from the Lidar Scan: 
+X and Y values: 146.07 20.4882
+Angle used (Theta - Radians): 0.139354
+Angle used (Theta - Degree): 7.98438
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 145.809 23.869
+Angle used (Theta - Radians): 0.162261
+Angle used (Theta - Degree): 9.29688
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.206167
+Angle used (Theta - Degree): 11.8125
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.229074
+Angle used (Theta - Degree): 13.125
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 172.843 83.602
+Angle used (Theta - Radians): 0.450513
+Angle used (Theta - Degree): 25.8125
+Distance (Milimeters): 192
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.458421
+Angle used (Theta - Degree): 26.2656
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 167.323 85.7154
+Angle used (Theta - Radians): 0.47342
+Angle used (Theta - Degree): 27.125
+Distance (Milimeters): 188
+
+Readings from the Lidar Scan: 
+X and Y values: 167.514 90.716
+Angle used (Theta - Radians): 0.496328
+Angle used (Theta - Degree): 28.4375
+Distance (Milimeters): 190.5
+
+Readings from the Lidar Scan: 
+X and Y values: 169.082 96.6381
+Angle used (Theta - Radians): 0.519235
+Angle used (Theta - Degree): 29.75
+Distance (Milimeters): 194.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.573231
+Angle used (Theta - Degree): 32.8438
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.596139
+Angle used (Theta - Degree): 34.1562
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 188.426 133.629
+Angle used (Theta - Radians): 0.616864
+Angle used (Theta - Degree): 35.3438
+Distance (Milimeters): 231
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.619046
+Angle used (Theta - Degree): 35.4688
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 219.929 157.055
+Angle used (Theta - Radians): 0.620137
+Angle used (Theta - Degree): 35.5312
+Distance (Milimeters): 270.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 206.91 158.678
+Angle used (Theta - Radians): 0.654225
+Angle used (Theta - Degree): 37.4844
+Distance (Milimeters): 260.75
+
+Readings from the Lidar Scan: 
+X and Y values: 189.44 262.847
+Angle used (Theta - Radians): 0.946295
+Angle used (Theta - Degree): 54.2188
+Distance (Milimeters): 324
+
+Readings from the Lidar Scan: 
+X and Y values: 177.214 257.697
+Angle used (Theta - Radians): 0.968384
+Angle used (Theta - Degree): 55.4844
+Distance (Milimeters): 312.75
+
+Readings from the Lidar Scan: 
+X and Y values: 165.354 259.554
+Angle used (Theta - Radians): 1.00356
+Angle used (Theta - Degree): 57.5
+Distance (Milimeters): 307.75
+
+Readings from the Lidar Scan: 
+X and Y values: 159.344 258.599
+Angle used (Theta - Radians): 1.01856
+Angle used (Theta - Degree): 58.3594
+Distance (Milimeters): 303.75
+
+Readings from the Lidar Scan: 
+X and Y values: 149.291 260.216
+Angle used (Theta - Radians): 1.04992
+Angle used (Theta - Degree): 60.1562
+Distance (Milimeters): 300
+
+Readings from the Lidar Scan: 
+X and Y values: 142.111 259.369
+Angle used (Theta - Radians): 1.06956
+Angle used (Theta - Degree): 61.2812
+Distance (Milimeters): 295.75
+
+Readings from the Lidar Scan: 
+X and Y values: 135.319 259.599
+Angle used (Theta - Radians): 1.09028
+Angle used (Theta - Degree): 62.4688
+Distance (Milimeters): 292.75
+
+Readings from the Lidar Scan: 
+X and Y values: 127.012 259.872
+Angle used (Theta - Radians): 1.11619
+Angle used (Theta - Degree): 63.9531
+Distance (Milimeters): 289.25
+
+Readings from the Lidar Scan: 
+X and Y values: 116.215 261.597
+Angle used (Theta - Radians): 1.15273
+Angle used (Theta - Degree): 66.0469
+Distance (Milimeters): 286.25
+
+Readings from the Lidar Scan: 
+X and Y values: 112.946 261.12
+Angle used (Theta - Radians): 1.16255
+Angle used (Theta - Degree): 66.6094
+Distance (Milimeters): 284.5
+
+Readings from the Lidar Scan: 
+X and Y values: 102.007 262.099
+Angle used (Theta - Radians): 1.19964
+Angle used (Theta - Degree): 68.7344
+Distance (Milimeters): 281.25
+
+Readings from the Lidar Scan: 
+X and Y values: 95.8817 254.54
+Angle used (Theta - Radians): 1.21055
+Angle used (Theta - Degree): 69.3594
+Distance (Milimeters): 272
+
+Readings from the Lidar Scan: 
+X and Y values: 75.3182 262.665
+Angle used (Theta - Radians): 1.29154
+Angle used (Theta - Degree): 74
+Distance (Milimeters): 273.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.30681
+Angle used (Theta - Degree): 74.875
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 67.3134 263.539
+Angle used (Theta - Radians): 1.32072
+Angle used (Theta - Degree): 75.6719
+Distance (Milimeters): 272
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.32999
+Angle used (Theta - Degree): 76.2031
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 64.5689 262.938
+Angle used (Theta - Radians): 1.32999
+Angle used (Theta - Degree): 76.2031
+Distance (Milimeters): 270.75
+
+Readings from the Lidar Scan: 
+X and Y values: 54.8394 264.372
+Angle used (Theta - Radians): 1.36626
+Angle used (Theta - Degree): 78.2812
+Distance (Milimeters): 270
+
+Readings from the Lidar Scan: 
+X and Y values: 49.0217 264.496
+Angle used (Theta - Radians): 1.38754
+Angle used (Theta - Degree): 79.5
+Distance (Milimeters): 269
+
+Readings from the Lidar Scan: 
+X and Y values: 44.0168 264.361
+Angle used (Theta - Radians): 1.40581
+Angle used (Theta - Degree): 80.5469
+Distance (Milimeters): 268
+
+Readings from the Lidar Scan: 
+X and Y values: 38.3849 264.226
+Angle used (Theta - Radians): 1.42653
+Angle used (Theta - Degree): 81.7344
+Distance (Milimeters): 267
+
+Readings from the Lidar Scan: 
+X and Y values: 32.4785 264.514
+Angle used (Theta - Radians): 1.44862
+Angle used (Theta - Degree): 83
+Distance (Milimeters): 266.5
+
+Readings from the Lidar Scan: 
+X and Y values: 24.3432 264.131
+Angle used (Theta - Radians): 1.47889
+Angle used (Theta - Degree): 84.7344
+Distance (Milimeters): 265.25
+
+Readings from the Lidar Scan: 
+X and Y values: 21.4515 263.378
+Angle used (Theta - Radians): 1.48953
+Angle used (Theta - Degree): 85.3438
+Distance (Milimeters): 264.25
+
+Readings from the Lidar Scan: 
+X and Y values: 14.8812 263.33
+Angle used (Theta - Radians): 1.51434
+Angle used (Theta - Degree): 86.7656
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 6.32928 263.674
+Angle used (Theta - Radians): 1.5468
+Angle used (Theta - Degree): 88.625
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 3.9137 265.721
+Angle used (Theta - Radians): 1.55607
+Angle used (Theta - Degree): 89.1562
+Distance (Milimeters): 265.75
+
+Readings from the Lidar Scan: 
+X and Y values: -7.34593 266.649
+Angle used (Theta - Radians): 1.59834
+Angle used (Theta - Degree): 91.5781
+Distance (Milimeters): 266.75
+
+Readings from the Lidar Scan: 
+X and Y values: -12.3122 266.966
+Angle used (Theta - Radians): 1.61688
+Angle used (Theta - Degree): 92.6406
+Distance (Milimeters): 267.25
+
+Readings from the Lidar Scan: 
+X and Y values: -17.398 267.685
+Angle used (Theta - Radians): 1.6357
+Angle used (Theta - Degree): 93.7188
+Distance (Milimeters): 268.25
+
+Readings from the Lidar Scan: 
+X and Y values: -24.3213 267.898
+Angle used (Theta - Radians): 1.66133
+Angle used (Theta - Degree): 95.1875
+Distance (Milimeters): 269
+
+Readings from the Lidar Scan: 
+X and Y values: -26.7094 269.681
+Angle used (Theta - Radians): 1.66952
+Angle used (Theta - Degree): 95.6562
+Distance (Milimeters): 271
+
+Readings from the Lidar Scan: 
+X and Y values: -32.5889 270.292
+Angle used (Theta - Radians): 1.69079
+Angle used (Theta - Degree): 96.875
+Distance (Milimeters): 272.25
+
+Readings from the Lidar Scan: 
+X and Y values: -41.3464 270.104
+Angle used (Theta - Radians): 1.72269
+Angle used (Theta - Degree): 98.7031
+Distance (Milimeters): 273.25
+
+Readings from the Lidar Scan: 
+X and Y values: -46.0331 270.105
+Angle used (Theta - Radians): 1.7396
+Angle used (Theta - Degree): 99.6719
+Distance (Milimeters): 274
+
+Readings from the Lidar Scan: 
+X and Y values: -52.9756 272.142
+Angle used (Theta - Radians): 1.76305
+Angle used (Theta - Degree): 101.016
+Distance (Milimeters): 277.25
+
+Readings from the Lidar Scan: 
+X and Y values: -59.771 272.778
+Angle used (Theta - Radians): 1.78651
+Angle used (Theta - Degree): 102.359
+Distance (Milimeters): 279.25
+
+Readings from the Lidar Scan: 
+X and Y values: -68.5993 277.394
+Angle used (Theta - Radians): 1.81323
+Angle used (Theta - Degree): 103.891
+Distance (Milimeters): 285.75
+
+Readings from the Lidar Scan: 
+X and Y values: -205.99 616.76
+Angle used (Theta - Radians): 1.89314
+Angle used (Theta - Degree): 108.469
+Distance (Milimeters): 650.25
+
+Readings from the Lidar Scan: 
+X and Y values: -218.774 605.701
+Angle used (Theta - Radians): 1.91741
+Angle used (Theta - Degree): 109.859
+Distance (Milimeters): 644
+
+Readings from the Lidar Scan: 
+X and Y values: -231.705 598.729
+Angle used (Theta - Radians): 1.94004
+Angle used (Theta - Degree): 111.156
+Distance (Milimeters): 642
+
+Readings from the Lidar Scan: 
+X and Y values: -243.995 586.794
+Angle used (Theta - Radians): 1.96486
+Angle used (Theta - Degree): 112.578
+Distance (Milimeters): 635.5
+
+Readings from the Lidar Scan: 
+X and Y values: -256.245 579.362
+Angle used (Theta - Radians): 1.98722
+Angle used (Theta - Degree): 113.859
+Distance (Milimeters): 633.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 1.99486
+Angle used (Theta - Degree): 114.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -266.122 568.274
+Angle used (Theta - Radians): 2.00876
+Angle used (Theta - Degree): 115.094
+Distance (Milimeters): 627.5
+
+Readings from the Lidar Scan: 
+X and Y values: -278.555 560.61
+Angle used (Theta - Radians): 2.03194
+Angle used (Theta - Degree): 116.422
+Distance (Milimeters): 626
+
+Readings from the Lidar Scan: 
+X and Y values: -290.426 552.012
+Angle used (Theta - Radians): 2.05512
+Angle used (Theta - Degree): 117.75
+Distance (Milimeters): 623.75
+
+Readings from the Lidar Scan: 
+X and Y values: -301.281 543.878
+Angle used (Theta - Radians): 2.07667
+Angle used (Theta - Degree): 118.984
+Distance (Milimeters): 621.75
+
+Readings from the Lidar Scan: 
+X and Y values: -313.886 535.543
+Angle used (Theta - Radians): 2.10094
+Angle used (Theta - Degree): 120.375
+Distance (Milimeters): 620.75
+
+Readings from the Lidar Scan: 
+X and Y values: -326.07 528.213
+Angle used (Theta - Radians): 2.12385
+Angle used (Theta - Degree): 121.688
+Distance (Milimeters): 620.75
+
+Readings from the Lidar Scan: 
+X and Y values: -341.233 316.991
+Angle used (Theta - Radians): 2.39301
+Angle used (Theta - Degree): 137.109
+Distance (Milimeters): 465.75
+
+Readings from the Lidar Scan: 
+X and Y values: -334.347 297.436
+Angle used (Theta - Radians): 2.41455
+Angle used (Theta - Degree): 138.344
+Distance (Milimeters): 447.5
+
+Readings from the Lidar Scan: 
+X and Y values: -339.312 288.683
+Angle used (Theta - Radians): 2.43664
+Angle used (Theta - Degree): 139.609
+Distance (Milimeters): 445.5
+
+Readings from the Lidar Scan: 
+X and Y values: -348.615 280.577
+Angle used (Theta - Radians): 2.46391
+Angle used (Theta - Degree): 141.172
+Distance (Milimeters): 447.5
+
+Readings from the Lidar Scan: 
+X and Y values: -359.313 275.868
+Angle used (Theta - Radians): 2.48682
+Angle used (Theta - Degree): 142.484
+Distance (Milimeters): 453
+
+Readings from the Lidar Scan: 
+X and Y values: -365.026 268.262
+Angle used (Theta - Radians): 2.50782
+Angle used (Theta - Degree): 143.688
+Distance (Milimeters): 453
+
+Readings from the Lidar Scan: 
+X and Y values: -377.905 264.46
+Angle used (Theta - Radians): 2.531
+Angle used (Theta - Degree): 145.016
+Distance (Milimeters): 461.25
+
+Readings from the Lidar Scan: 
+X and Y values: -395.283 264.745
+Angle used (Theta - Radians): 2.55145
+Angle used (Theta - Degree): 146.188
+Distance (Milimeters): 475.75
+
+Readings from the Lidar Scan: 
+X and Y values: -408.97 261.172
+Angle used (Theta - Radians): 2.57327
+Angle used (Theta - Degree): 147.438
+Distance (Milimeters): 485.25
+
+Readings from the Lidar Scan: 
+X and Y values: -414.803 253.727
+Angle used (Theta - Radians): 2.59263
+Angle used (Theta - Degree): 148.547
+Distance (Milimeters): 486.25
+
+Readings from the Lidar Scan: 
+X and Y values: -428.37 249.037
+Angle used (Theta - Radians): 2.61499
+Angle used (Theta - Degree): 149.828
+Distance (Milimeters): 495.5
+
+Readings from the Lidar Scan: 
+X and Y values: -434.707 239.88
+Angle used (Theta - Radians): 2.63735
+Angle used (Theta - Degree): 151.109
+Distance (Milimeters): 496.5
+
+Readings from the Lidar Scan: 
+X and Y values: -433.058 226.038
+Angle used (Theta - Radians): 2.66053
+Angle used (Theta - Degree): 152.438
+Distance (Milimeters): 488.5
+
+Readings from the Lidar Scan: 
+X and Y values: -421.759 205.707
+Angle used (Theta - Radians): 2.6878
+Angle used (Theta - Degree): 154
+Distance (Milimeters): 469.25
+
+Readings from the Lidar Scan: 
+X and Y values: -708.604 284.275
+Angle used (Theta - Radians): 2.76007
+Angle used (Theta - Degree): 158.141
+Distance (Milimeters): 763.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 2.84325
+Angle used (Theta - Degree): 162.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -245.175 61.4138
+Angle used (Theta - Radians): 2.89615
+Angle used (Theta - Degree): 165.938
+Distance (Milimeters): 252.75
+
+Readings from the Lidar Scan: 
+X and Y values: -266.083 41.1776
+Angle used (Theta - Radians): 2.98806
+Angle used (Theta - Degree): 171.203
+Distance (Milimeters): 269.25
+
+Readings from the Lidar Scan: 
+X and Y values: -251.278 27.2427
+Angle used (Theta - Radians): 3.0336
+Angle used (Theta - Degree): 173.812
+Distance (Milimeters): 252.75
+
+Readings from the Lidar Scan: 
+X and Y values: -249.376 26.2112
+Angle used (Theta - Radians): 3.03687
+Angle used (Theta - Degree): 174
+Distance (Milimeters): 250.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 3.5542
+Angle used (Theta - Degree): 203.641
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -187.78 -140.46
+Angle used (Theta - Radians): 3.78382
+Angle used (Theta - Degree): 216.797
+Distance (Milimeters): 234.5
+
+Readings from the Lidar Scan: 
+X and Y values: -590.399 -682.925
+Angle used (Theta - Radians): 3.99953
+Angle used (Theta - Degree): 229.156
+Distance (Milimeters): 902.75
+
+Readings from the Lidar Scan: 
+X and Y values: -568.828 -687.743
+Angle used (Theta - Radians): 4.02134
+Angle used (Theta - Degree): 230.406
+Distance (Milimeters): 892.5
+
+Readings from the Lidar Scan: 
+X and Y values: -551.543 -700.409
+Angle used (Theta - Radians): 4.04534
+Angle used (Theta - Degree): 231.781
+Distance (Milimeters): 891.5
+
+Readings from the Lidar Scan: 
+X and Y values: -533.684 -709.424
+Angle used (Theta - Radians): 4.06743
+Angle used (Theta - Degree): 233.047
+Distance (Milimeters): 887.75
+
+Readings from the Lidar Scan: 
+X and Y values: -519.437 -723.617
+Angle used (Theta - Radians): 4.08979
+Angle used (Theta - Degree): 234.328
+Distance (Milimeters): 890.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 4.10452
+Angle used (Theta - Degree): 235.172
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -500.638 -736.143
+Angle used (Theta - Radians): 4.11516
+Angle used (Theta - Degree): 235.781
+Distance (Milimeters): 890.25
+
+Readings from the Lidar Scan: 
+X and Y values: -486.433 -749.483
+Angle used (Theta - Radians): 4.1367
+Angle used (Theta - Degree): 237.016
+Distance (Milimeters): 893.5
+
+Readings from the Lidar Scan: 
+X and Y values: -453.764 -737.307
+Angle used (Theta - Radians): 4.1607
+Angle used (Theta - Degree): 238.391
+Distance (Milimeters): 865.75
+
+Readings from the Lidar Scan: 
+X and Y values: -411.771 -706.512
+Angle used (Theta - Radians): 4.1847
+Angle used (Theta - Degree): 239.766
+Distance (Milimeters): 817.75
+
+Readings from the Lidar Scan: 
+X and Y values: -375.24 -683.524
+Angle used (Theta - Radians): 4.21033
+Angle used (Theta - Degree): 241.234
+Distance (Milimeters): 779.75
+
+Readings from the Lidar Scan: 
+X and Y values: -354.6 -682.082
+Angle used (Theta - Radians): 4.23297
+Angle used (Theta - Degree): 242.531
+Distance (Milimeters): 768.75
+
+Readings from the Lidar Scan: 
+X and Y values: -331.018 -676.34
+Angle used (Theta - Radians): 4.25724
+Angle used (Theta - Degree): 243.922
+Distance (Milimeters): 753
+
+Readings from the Lidar Scan: 
+X and Y values: -310.122 -674.634
+Angle used (Theta - Radians): 4.28151
+Angle used (Theta - Degree): 245.312
+Distance (Milimeters): 742.5
+
+Readings from the Lidar Scan: 
+X and Y values: -289.618 -673.085
+Angle used (Theta - Radians): 4.30605
+Angle used (Theta - Degree): 246.719
+Distance (Milimeters): 732.75
+
+Readings from the Lidar Scan: 
+X and Y values: -272.529 -674.525
+Angle used (Theta - Radians): 4.32841
+Angle used (Theta - Degree): 248
+Distance (Milimeters): 727.5
+
+Readings from the Lidar Scan: 
+X and Y values: -254.96 -676.286
+Angle used (Theta - Radians): 4.35187
+Angle used (Theta - Degree): 249.344
+Distance (Milimeters): 722.75
+
+Readings from the Lidar Scan: 
+X and Y values: -240.106 -682.761
+Angle used (Theta - Radians): 4.37423
+Angle used (Theta - Degree): 250.625
+Distance (Milimeters): 723.75
+
+Readings from the Lidar Scan: 
+X and Y values: -227.745 -693.828
+Angle used (Theta - Radians): 4.39523
+Angle used (Theta - Degree): 251.828
+Distance (Milimeters): 730.25
+
+Readings from the Lidar Scan: 
+X and Y values: -212.091 -703.996
+Angle used (Theta - Radians): 4.41977
+Angle used (Theta - Degree): 253.234
+Distance (Milimeters): 735.25
+
+Readings from the Lidar Scan: 
+X and Y values: -196.637 -710.543
+Angle used (Theta - Radians): 4.4424
+Angle used (Theta - Degree): 254.531
+Distance (Milimeters): 737.25
+
+Readings from the Lidar Scan: 
+X and Y values: -179.809 -713.698
+Angle used (Theta - Radians): 4.46558
+Angle used (Theta - Degree): 255.859
+Distance (Milimeters): 736
+
+Readings from the Lidar Scan: 
+X and Y values: -164.469 -722.261
+Angle used (Theta - Radians): 4.48849
+Angle used (Theta - Degree): 257.172
+Distance (Milimeters): 740.75
+
+Readings from the Lidar Scan: 
+X and Y values: -151.384 -735.839
+Angle used (Theta - Radians): 4.50949
+Angle used (Theta - Degree): 258.375
+Distance (Milimeters): 751.25
+
+Readings from the Lidar Scan: 
+X and Y values: -136.835 -753.171
+Angle used (Theta - Radians): 4.53267
+Angle used (Theta - Degree): 259.703
+Distance (Milimeters): 765.5
+
+Readings from the Lidar Scan: 
+X and Y values: -121.005 -763.976
+Angle used (Theta - Radians): 4.55531
+Angle used (Theta - Degree): 261
+Distance (Milimeters): 773.5
+
+Readings from the Lidar Scan: 
+X and Y values: -102.203 -757.133
+Angle used (Theta - Radians): 4.57821
+Angle used (Theta - Degree): 262.312
+Distance (Milimeters): 764
+
+Readings from the Lidar Scan: 
+X and Y values: -82.9701 -759.481
+Angle used (Theta - Radians): 4.60357
+Angle used (Theta - Degree): 263.766
+Distance (Milimeters): 764
+
+Readings from the Lidar Scan: 
+X and Y values: -66.2229 -749.831
+Angle used (Theta - Radians): 4.6243
+Angle used (Theta - Degree): 264.953
+Distance (Milimeters): 752.75
+
+Readings from the Lidar Scan: 
+X and Y values: -46.964 -741.264
+Angle used (Theta - Radians): 4.64912
+Angle used (Theta - Degree): 266.375
+Distance (Milimeters): 742.75
+
+Readings from the Lidar Scan: 
+X and Y values: -30.6683 -739.364
+Angle used (Theta - Radians): 4.67093
+Angle used (Theta - Degree): 267.625
+Distance (Milimeters): 740
+
+Readings from the Lidar Scan: 
+X and Y values: -12.3623 -742.897
+Angle used (Theta - Radians): 4.69575
+Angle used (Theta - Degree): 269.047
+Distance (Milimeters): 743
+
+Readings from the Lidar Scan: 
+X and Y values: 3.91932 -756.99
+Angle used (Theta - Radians): 4.71757
+Angle used (Theta - Degree): 270.297
+Distance (Milimeters): 757
+
+Readings from the Lidar Scan: 
+X and Y values: 275.677 -1901.37
+Angle used (Theta - Radians): 4.85637
+Angle used (Theta - Degree): 278.25
+Distance (Milimeters): 1921.25
+
+Readings from the Lidar Scan: 
+X and Y values: 320.838 -1907.71
+Angle used (Theta - Radians): 4.87901
+Angle used (Theta - Degree): 279.547
+Distance (Milimeters): 1934.5
+
+Readings from the Lidar Scan: 
+X and Y values: 406.619 -1887.7
+Angle used (Theta - Radians): 4.92455
+Angle used (Theta - Degree): 282.156
+Distance (Milimeters): 1931
+
+Readings from the Lidar Scan: 
+X and Y values: 1135.97 -2284.67
+Angle used (Theta - Radians): 5.17381
+Angle used (Theta - Degree): 296.438
+Distance (Milimeters): 2551.5
+
+Readings from the Lidar Scan: 
+X and Y values: 830.119 -472.657
+Angle used (Theta - Radians): 5.76558
+Angle used (Theta - Degree): 330.344
+Distance (Milimeters): 955.25
+
+Readings from the Lidar Scan: 
+X and Y values: 813.784 -438.698
+Angle used (Theta - Radians): 5.78876
+Angle used (Theta - Degree): 331.672
+Distance (Milimeters): 924.5
+
+Readings from the Lidar Scan: 
+X and Y values: 804.243 -409.511
+Angle used (Theta - Radians): 5.81221
+Angle used (Theta - Degree): 333.016
+Distance (Milimeters): 902.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.98484
+Angle used (Theta - Degree): 342.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.00775
+Angle used (Theta - Degree): 344.219
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 195.061 -54.3828
+Angle used (Theta - Radians): 6.01129
+Angle used (Theta - Degree): 344.422
+Distance (Milimeters): 202.5
+
+Readings from the Lidar Scan: 
+X and Y values: 188.987 -48.0524
+Angle used (Theta - Radians): 6.0342
+Angle used (Theta - Degree): 345.734
+Distance (Milimeters): 195
+
+Readings from the Lidar Scan: 
+X and Y values: 191.5 -44.0472
+Angle used (Theta - Radians): 6.05711
+Angle used (Theta - Degree): 347.047
+Distance (Milimeters): 196.5
+
+Readings from the Lidar Scan: 
+X and Y values: 188.306 -38.7404
+Angle used (Theta - Radians): 6.08029
+Angle used (Theta - Degree): 348.375
+Distance (Milimeters): 192.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.12256
+Angle used (Theta - Degree): 350.797
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.14546
+Angle used (Theta - Degree): 352.109
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 202.166 -27.2901
+Angle used (Theta - Radians): 6.14901
+Angle used (Theta - Degree): 352.312
+Distance (Milimeters): 204
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.19128
+Angle used (Theta - Degree): 354.734
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.21419
+Angle used (Theta - Degree): 356.047
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0
+Angle used (Theta - Degree): 0
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 147.628 13.5651
+Angle used (Theta - Radians): 0.0916297
+Angle used (Theta - Degree): 5.25
+Distance (Milimeters): 148.25
+
+Readings from the Lidar Scan: 
+X and Y values: 147.03 16.9145
+Angle used (Theta - Radians): 0.114537
+Angle used (Theta - Degree): 6.5625
+Distance (Milimeters): 148
+
+Readings from the Lidar Scan: 
+X and Y values: 146.362 20.2036
+Angle used (Theta - Radians): 0.137172
+Angle used (Theta - Degree): 7.85938
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 145.861 23.5508
+Angle used (Theta - Radians): 0.160079
+Angle used (Theta - Degree): 9.17188
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 140.858 26.0668
+Angle used (Theta - Radians): 0.182987
+Angle used (Theta - Degree): 10.4844
+Distance (Milimeters): 143.25
+
+Readings from the Lidar Scan: 
+X and Y values: 141.945 29.6055
+Angle used (Theta - Radians): 0.205621
+Angle used (Theta - Degree): 11.7812
+Distance (Milimeters): 145
+
+Readings from the Lidar Scan: 
+X and Y values: 172.349 82.8996
+Angle used (Theta - Radians): 0.448331
+Angle used (Theta - Degree): 25.6875
+Distance (Milimeters): 191.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.458421
+Angle used (Theta - Degree): 26.2656
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 167.31 85.191
+Angle used (Theta - Radians): 0.470966
+Angle used (Theta - Degree): 26.9844
+Distance (Milimeters): 187.75
+
+Readings from the Lidar Scan: 
+X and Y values: 167.516 90.1861
+Angle used (Theta - Radians): 0.493873
+Angle used (Theta - Degree): 28.2969
+Distance (Milimeters): 190.25
+
+Readings from the Lidar Scan: 
+X and Y values: 169.318 96.2228
+Angle used (Theta - Radians): 0.516781
+Angle used (Theta - Degree): 29.6094
+Distance (Milimeters): 194.75
+
+Readings from the Lidar Scan: 
+X and Y values: 170.474 102.178
+Angle used (Theta - Radians): 0.539961
+Angle used (Theta - Degree): 30.9375
+Distance (Milimeters): 198.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.596139
+Angle used (Theta - Degree): 34.1562
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.619046
+Angle used (Theta - Degree): 35.4688
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 210.112 154.413
+Angle used (Theta - Radians): 0.633772
+Angle used (Theta - Degree): 36.3125
+Distance (Milimeters): 260.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.664861
+Angle used (Theta - Degree): 38.0938
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.687768
+Angle used (Theta - Degree): 39.4062
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 189.523 264.327
+Angle used (Theta - Radians): 0.948749
+Angle used (Theta - Degree): 54.3594
+Distance (Milimeters): 325.25
+
+Readings from the Lidar Scan: 
+X and Y values: 169.423 258.412
+Angle used (Theta - Radians): 0.990474
+Angle used (Theta - Degree): 56.75
+Distance (Milimeters): 309
+
+Readings from the Lidar Scan: 
+X and Y values: 159.899 258.551
+Angle used (Theta - Radians): 1.01693
+Angle used (Theta - Degree): 58.2656
+Distance (Milimeters): 304
+
+Readings from the Lidar Scan: 
+X and Y values: 151.627 258.862
+Angle used (Theta - Radians): 1.04092
+Angle used (Theta - Degree): 59.6406
+Distance (Milimeters): 300
+
+Readings from the Lidar Scan: 
+X and Y values: 142.889 258.942
+Angle used (Theta - Radians): 1.06656
+Angle used (Theta - Degree): 61.1094
+Distance (Milimeters): 295.75
+
+Readings from the Lidar Scan: 
+X and Y values: 135.177 259.672
+Angle used (Theta - Radians): 1.09083
+Angle used (Theta - Degree): 62.5
+Distance (Milimeters): 292.75
+
+Readings from the Lidar Scan: 
+X and Y values: 126.98 260.166
+Angle used (Theta - Radians): 1.11674
+Angle used (Theta - Degree): 63.9844
+Distance (Milimeters): 289.5
+
+Readings from the Lidar Scan: 
+X and Y values: 119.203 260.249
+Angle used (Theta - Radians): 1.14128
+Angle used (Theta - Degree): 65.3906
+Distance (Milimeters): 286.25
+
+Readings from the Lidar Scan: 
+X and Y values: 108.749 260.73
+Angle used (Theta - Radians): 1.17564
+Angle used (Theta - Degree): 67.3594
+Distance (Milimeters): 282.5
+
+Readings from the Lidar Scan: 
+X and Y values: 104.554 260.825
+Angle used (Theta - Radians): 1.18955
+Angle used (Theta - Degree): 68.1562
+Distance (Milimeters): 281
+
+Readings from the Lidar Scan: 
+X and Y values: 97.1081 255.68
+Angle used (Theta - Radians): 1.20782
+Angle used (Theta - Degree): 69.2031
+Distance (Milimeters): 273.5
+
+Readings from the Lidar Scan: 
+X and Y values: 77.1787 262.124
+Angle used (Theta - Radians): 1.28445
+Angle used (Theta - Degree): 73.5938
+Distance (Milimeters): 273.25
+
+Readings from the Lidar Scan: 
+X and Y values: 73.1221 261.727
+Angle used (Theta - Radians): 1.29836
+Angle used (Theta - Degree): 74.3906
+Distance (Milimeters): 271.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.30681
+Angle used (Theta - Degree): 74.875
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.32999
+Angle used (Theta - Degree): 76.2031
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 62.8291 262.331
+Angle used (Theta - Radians): 1.33572
+Angle used (Theta - Degree): 76.5312
+Distance (Milimeters): 269.75
+
+Readings from the Lidar Scan: 
+X and Y values: 54.2984 263.208
+Angle used (Theta - Radians): 1.36736
+Angle used (Theta - Degree): 78.3438
+Distance (Milimeters): 268.75
+
+Readings from the Lidar Scan: 
+X and Y values: 52.5222 262.548
+Angle used (Theta - Radians): 1.37335
+Angle used (Theta - Degree): 78.6875
+Distance (Milimeters): 267.75
+
+Readings from the Lidar Scan: 
+X and Y values: 42.4154 263.609
+Angle used (Theta - Radians): 1.41126
+Angle used (Theta - Degree): 80.8594
+Distance (Milimeters): 267
+
+Readings from the Lidar Scan: 
+X and Y values: 35.722 264.095
+Angle used (Theta - Radians): 1.43635
+Angle used (Theta - Degree): 82.2969
+Distance (Milimeters): 266.5
+
+Readings from the Lidar Scan: 
+X and Y values: 32.5922 264.248
+Angle used (Theta - Radians): 1.44808
+Angle used (Theta - Degree): 82.9688
+Distance (Milimeters): 266.25
+
+Readings from the Lidar Scan: 
+X and Y values: 29.093 263.65
+Angle used (Theta - Radians): 1.46089
+Angle used (Theta - Degree): 83.7031
+Distance (Milimeters): 265.25
+
+Readings from the Lidar Scan: 
+X and Y values: 21.6464 263.111
+Angle used (Theta - Radians): 1.48871
+Angle used (Theta - Degree): 85.2969
+Distance (Milimeters): 264
+
+Readings from the Lidar Scan: 
+X and Y values: 13.1541 261.92
+Angle used (Theta - Radians): 1.52062
+Angle used (Theta - Degree): 87.125
+Distance (Milimeters): 262.25
+
+Readings from the Lidar Scan: 
+X and Y values: 4.31575 263.715
+Angle used (Theta - Radians): 1.55443
+Angle used (Theta - Degree): 89.0625
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 2.09806 265.242
+Angle used (Theta - Radians): 1.56289
+Angle used (Theta - Degree): 89.5469
+Distance (Milimeters): 265.25
+
+Readings from the Lidar Scan: 
+X and Y values: -6.01997 265.932
+Angle used (Theta - Radians): 1.59343
+Angle used (Theta - Degree): 91.2969
+Distance (Milimeters): 266
+
+Readings from the Lidar Scan: 
+X and Y values: -8.80016 266.605
+Angle used (Theta - Radians): 1.60379
+Angle used (Theta - Degree): 91.8906
+Distance (Milimeters): 266.75
+
+Readings from the Lidar Scan: 
+X and Y values: -18.055 267.642
+Angle used (Theta - Radians): 1.63815
+Angle used (Theta - Degree): 93.8594
+Distance (Milimeters): 268.25
+
+Readings from the Lidar Scan: 
+X and Y values: -19.4407 268.547
+Angle used (Theta - Radians): 1.64306
+Angle used (Theta - Degree): 94.1406
+Distance (Milimeters): 269.25
+
+Readings from the Lidar Scan: 
+X and Y values: -26.293 269.219
+Angle used (Theta - Radians): 1.66815
+Angle used (Theta - Degree): 95.5781
+Distance (Milimeters): 270.5
+
+Readings from the Lidar Scan: 
+X and Y values: -31.6612 269.396
+Angle used (Theta - Radians): 1.68779
+Angle used (Theta - Degree): 96.7031
+Distance (Milimeters): 271.25
+
+Readings from the Lidar Scan: 
+X and Y values: -40.3882 269.743
+Angle used (Theta - Radians): 1.71942
+Angle used (Theta - Degree): 98.5156
+Distance (Milimeters): 272.75
+
+Readings from the Lidar Scan: 
+X and Y values: -45.2313 270.748
+Angle used (Theta - Radians): 1.73633
+Angle used (Theta - Degree): 99.4844
+Distance (Milimeters): 274.5
+
+Readings from the Lidar Scan: 
+X and Y values: -51.3699 272.195
+Angle used (Theta - Radians): 1.75733
+Angle used (Theta - Degree): 100.688
+Distance (Milimeters): 277
+
+Readings from the Lidar Scan: 
+X and Y values: -57.4443 274.299
+Angle used (Theta - Radians): 1.77723
+Angle used (Theta - Degree): 101.828
+Distance (Milimeters): 280.25
+
+Readings from the Lidar Scan: 
+X and Y values: -66.531 274.811
+Angle used (Theta - Radians): 1.80832
+Angle used (Theta - Degree): 103.609
+Distance (Milimeters): 282.75
+
+Readings from the Lidar Scan: 
+X and Y values: -205.395 621.173
+Angle used (Theta - Radians): 1.89014
+Angle used (Theta - Degree): 108.297
+Distance (Milimeters): 654.25
+
+Readings from the Lidar Scan: 
+X and Y values: -216.211 606.356
+Angle used (Theta - Radians): 1.91332
+Angle used (Theta - Degree): 109.625
+Distance (Milimeters): 643.75
+
+Readings from the Lidar Scan: 
+X and Y values: -228.167 596.341
+Angle used (Theta - Radians): 1.93622
+Angle used (Theta - Degree): 110.938
+Distance (Milimeters): 638.5
+
+Readings from the Lidar Scan: 
+X and Y values: -241.6 585.08
+Angle used (Theta - Radians): 1.9624
+Angle used (Theta - Degree): 112.438
+Distance (Milimeters): 633
+
+Readings from the Lidar Scan: 
+X and Y values: -252.156 577.336
+Angle used (Theta - Radians): 1.98258
+Angle used (Theta - Degree): 113.594
+Distance (Milimeters): 630
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 1.99486
+Angle used (Theta - Degree): 114.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -265.649 567.667
+Angle used (Theta - Radians): 2.00849
+Angle used (Theta - Degree): 115.078
+Distance (Milimeters): 626.75
+
+Readings from the Lidar Scan: 
+X and Y values: -277.763 560.166
+Angle used (Theta - Radians): 2.03113
+Angle used (Theta - Degree): 116.375
+Distance (Milimeters): 625.25
+
+Readings from the Lidar Scan: 
+X and Y values: -287.23 550.299
+Angle used (Theta - Radians): 2.05185
+Angle used (Theta - Degree): 117.562
+Distance (Milimeters): 620.75
+
+Readings from the Lidar Scan: 
+X and Y values: -299.116 541.361
+Angle used (Theta - Radians): 2.07558
+Angle used (Theta - Degree): 118.922
+Distance (Milimeters): 618.5
+
+Readings from the Lidar Scan: 
+X and Y values: -312.153 531.922
+Angle used (Theta - Radians): 2.10148
+Angle used (Theta - Degree): 120.406
+Distance (Milimeters): 616.75
+
+Readings from the Lidar Scan: 
+X and Y values: -324.064 525.925
+Angle used (Theta - Radians): 2.12303
+Angle used (Theta - Degree): 121.641
+Distance (Milimeters): 617.75
+
+Readings from the Lidar Scan: 
+X and Y values: -336.425 299.614
+Angle used (Theta - Radians): 2.41401
+Angle used (Theta - Degree): 138.312
+Distance (Milimeters): 450.5
+
+Readings from the Lidar Scan: 
+X and Y values: -338.681 289.422
+Angle used (Theta - Radians): 2.43446
+Angle used (Theta - Degree): 139.484
+Distance (Milimeters): 445.5
+
+Readings from the Lidar Scan: 
+X and Y values: -346.849 282.758
+Angle used (Theta - Radians): 2.45764
+Angle used (Theta - Degree): 140.812
+Distance (Milimeters): 447.5
+
+Readings from the Lidar Scan: 
+X and Y values: -357.24 276.918
+Angle used (Theta - Radians): 2.48218
+Angle used (Theta - Degree): 142.219
+Distance (Milimeters): 452
+
+Readings from the Lidar Scan: 
+X and Y values: -363.284 270.199
+Angle used (Theta - Radians): 2.50209
+Angle used (Theta - Degree): 143.359
+Distance (Milimeters): 452.75
+
+Readings from the Lidar Scan: 
+X and Y values: -371.325 261.215
+Angle used (Theta - Radians): 2.52854
+Angle used (Theta - Degree): 144.875
+Distance (Milimeters): 454
+
+Readings from the Lidar Scan: 
+X and Y values: -393.796 268.285
+Angle used (Theta - Radians): 2.54354
+Angle used (Theta - Degree): 145.734
+Distance (Milimeters): 476.5
+
+Readings from the Lidar Scan: 
+X and Y values: -405.804 260.554
+Angle used (Theta - Radians): 2.57081
+Angle used (Theta - Degree): 147.297
+Distance (Milimeters): 482.25
+
+Readings from the Lidar Scan: 
+X and Y values: -414.728 253.37
+Angle used (Theta - Radians): 2.59318
+Angle used (Theta - Degree): 148.578
+Distance (Milimeters): 486
+
+Readings from the Lidar Scan: 
+X and Y values: -426.87 248.633
+Angle used (Theta - Radians): 2.61417
+Angle used (Theta - Degree): 149.781
+Distance (Milimeters): 494
+
+Readings from the Lidar Scan: 
+X and Y values: -433.767 241.061
+Angle used (Theta - Radians): 2.63435
+Angle used (Theta - Degree): 150.938
+Distance (Milimeters): 496.25
+
+Readings from the Lidar Scan: 
+X and Y values: -433.366 225.447
+Angle used (Theta - Radians): 2.6619
+Angle used (Theta - Degree): 152.516
+Distance (Milimeters): 488.5
+
+Readings from the Lidar Scan: 
+X and Y values: -423.662 208.641
+Angle used (Theta - Radians): 2.68399
+Angle used (Theta - Degree): 153.781
+Distance (Milimeters): 472.25
+
+Readings from the Lidar Scan: 
+X and Y values: -714.385 289.993
+Angle used (Theta - Radians): 2.75598
+Angle used (Theta - Degree): 157.906
+Distance (Milimeters): 771
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 2.84325
+Angle used (Theta - Degree): 162.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -239.481 55.1517
+Angle used (Theta - Radians): 2.91524
+Angle used (Theta - Degree): 167.031
+Distance (Milimeters): 245.75
+
+Readings from the Lidar Scan: 
+X and Y values: -242.827 52.793
+Angle used (Theta - Radians): 2.92751
+Angle used (Theta - Degree): 167.734
+Distance (Milimeters): 248.5
+
+Readings from the Lidar Scan: 
+X and Y values: -251.506 33.6704
+Angle used (Theta - Radians): 3.00851
+Angle used (Theta - Degree): 172.375
+Distance (Milimeters): 253.75
+
+Readings from the Lidar Scan: 
+X and Y values: -248.14 26.0128
+Angle used (Theta - Radians): 3.03714
+Angle used (Theta - Degree): 174.016
+Distance (Milimeters): 249.5
+
+Readings from the Lidar Scan: 
+X and Y values: -2443.51 -646.165
+Angle used (Theta - Radians): 3.40012
+Angle used (Theta - Degree): 194.812
+Distance (Milimeters): 2527.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 3.53129
+Angle used (Theta - Degree): 202.328
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -185.388 -139.066
+Angle used (Theta - Radians): 3.78518
+Angle used (Theta - Degree): 216.875
+Distance (Milimeters): 231.75
+
+Readings from the Lidar Scan: 
+X and Y values: -3585.5 -2982.01
+Angle used (Theta - Radians): 3.83536
+Angle used (Theta - Degree): 219.75
+Distance (Milimeters): 4663.5
+
+Readings from the Lidar Scan: 
+X and Y values: -3368.24 -2936.02
+Angle used (Theta - Radians): 3.85854
+Angle used (Theta - Degree): 221.078
+Distance (Milimeters): 4468.25
+
+Readings from the Lidar Scan: 
+X and Y values: -593.58 -679.83
+Angle used (Theta - Radians): 3.99462
+Angle used (Theta - Degree): 228.875
+Distance (Milimeters): 902.5
+
+Readings from the Lidar Scan: 
+X and Y values: -571.423 -685.914
+Angle used (Theta - Radians): 4.0178
+Angle used (Theta - Degree): 230.203
+Distance (Milimeters): 892.75
+
+Readings from the Lidar Scan: 
+X and Y values: -553.211 -697.817
+Angle used (Theta - Radians): 4.04207
+Angle used (Theta - Degree): 231.594
+Distance (Milimeters): 890.5
+
+Readings from the Lidar Scan: 
+X and Y values: -535.597 -709.547
+Angle used (Theta - Radians): 4.0658
+Angle used (Theta - Degree): 232.953
+Distance (Milimeters): 889
+
+Readings from the Lidar Scan: 
+X and Y values: -521.898 -722.461
+Angle used (Theta - Radians): 4.08679
+Angle used (Theta - Degree): 234.156
+Distance (Milimeters): 891.25
+
+Readings from the Lidar Scan: 
+X and Y values: -503.821 -733.058
+Angle used (Theta - Radians): 4.11025
+Angle used (Theta - Degree): 235.5
+Distance (Milimeters): 889.5
+
+Readings from the Lidar Scan: 
+X and Y values: -488.681 -748.915
+Angle used (Theta - Radians): 4.13425
+Angle used (Theta - Degree): 236.875
+Distance (Milimeters): 894.25
+
+Readings from the Lidar Scan: 
+X and Y values: -457.283 -738.954
+Angle used (Theta - Radians): 4.15824
+Angle used (Theta - Degree): 238.25
+Distance (Milimeters): 869
+
+Readings from the Lidar Scan: 
+X and Y values: -411.785 -704.768
+Angle used (Theta - Radians): 4.18361
+Angle used (Theta - Degree): 239.703
+Distance (Milimeters): 816.25
+
+Readings from the Lidar Scan: 
+X and Y values: -379.627 -683.1
+Angle used (Theta - Radians): 4.20515
+Angle used (Theta - Degree): 240.938
+Distance (Milimeters): 781.5
+
+Readings from the Lidar Scan: 
+X and Y values: -353.841 -678.813
+Angle used (Theta - Radians): 4.23187
+Angle used (Theta - Degree): 242.469
+Distance (Milimeters): 765.5
+
+Readings from the Lidar Scan: 
+X and Y values: -334.632 -677.628
+Angle used (Theta - Radians): 4.25369
+Angle used (Theta - Degree): 243.719
+Distance (Milimeters): 755.75
+
+Readings from the Lidar Scan: 
+X and Y values: -313.221 -676.508
+Angle used (Theta - Radians): 4.27878
+Angle used (Theta - Degree): 245.156
+Distance (Milimeters): 745.5
+
+Readings from the Lidar Scan: 
+X and Y values: -295.17 -675.31
+Angle used (Theta - Radians): 4.30032
+Angle used (Theta - Degree): 246.391
+Distance (Milimeters): 737
+
+Readings from the Lidar Scan: 
+X and Y values: -275.729 -671.872
+Angle used (Theta - Radians): 4.32296
+Angle used (Theta - Degree): 247.688
+Distance (Milimeters): 726.25
+
+Readings from the Lidar Scan: 
+X and Y values: -257.635 -675.004
+Angle used (Theta - Radians): 4.34778
+Angle used (Theta - Degree): 249.109
+Distance (Milimeters): 722.5
+
+Readings from the Lidar Scan: 
+X and Y values: -240.797 -678.805
+Angle used (Theta - Radians): 4.3715
+Angle used (Theta - Degree): 250.469
+Distance (Milimeters): 720.25
+
+Readings from the Lidar Scan: 
+X and Y values: -226.89 -688.056
+Angle used (Theta - Radians): 4.39386
+Angle used (Theta - Degree): 251.75
+Distance (Milimeters): 724.5
+
+Readings from the Lidar Scan: 
+X and Y values: -212.482 -698.392
+Angle used (Theta - Radians): 4.41704
+Angle used (Theta - Degree): 253.078
+Distance (Milimeters): 730
+
+Readings from the Lidar Scan: 
+X and Y values: -198.719 -706.069
+Angle used (Theta - Radians): 4.43804
+Angle used (Theta - Degree): 254.281
+Distance (Milimeters): 733.5
+
+Readings from the Lidar Scan: 
+X and Y values: -182.417 -711.745
+Angle used (Theta - Radians): 4.46149
+Angle used (Theta - Degree): 255.625
+Distance (Milimeters): 734.75
+
+Readings from the Lidar Scan: 
+X and Y values: -167.497 -717.458
+Angle used (Theta - Radians): 4.48304
+Angle used (Theta - Degree): 256.859
+Distance (Milimeters): 736.75
+
+Readings from the Lidar Scan: 
+X and Y values: -151.461 -728.164
+Angle used (Theta - Radians): 4.50731
+Angle used (Theta - Degree): 258.25
+Distance (Milimeters): 743.75
+
+Readings from the Lidar Scan: 
+X and Y values: -138.839 -745.685
+Angle used (Theta - Radians): 4.52831
+Angle used (Theta - Degree): 259.453
+Distance (Milimeters): 758.5
+
+Readings from the Lidar Scan: 
+X and Y values: -121.72 -757.787
+Angle used (Theta - Radians): 4.55312
+Angle used (Theta - Degree): 260.875
+Distance (Milimeters): 767.5
+
+Readings from the Lidar Scan: 
+X and Y values: -104.918 -760.043
+Angle used (Theta - Radians): 4.57521
+Angle used (Theta - Degree): 262.141
+Distance (Milimeters): 767.25
+
+Readings from the Lidar Scan: 
+X and Y values: -85.7382 -756.155
+Angle used (Theta - Radians): 4.59948
+Angle used (Theta - Degree): 263.531
+Distance (Milimeters): 761
+
+Readings from the Lidar Scan: 
+X and Y values: -69.1311 -750.071
+Angle used (Theta - Radians): 4.62048
+Angle used (Theta - Degree): 264.734
+Distance (Milimeters): 753.25
+
+Readings from the Lidar Scan: 
+X and Y values: -50.5527 -743.283
+Angle used (Theta - Radians): 4.64448
+Angle used (Theta - Degree): 266.109
+Distance (Milimeters): 745
+
+Readings from the Lidar Scan: 
+X and Y values: -32.0631 -734.3
+Angle used (Theta - Radians): 4.66875
+Angle used (Theta - Degree): 267.5
+Distance (Milimeters): 735
+
+Readings from the Lidar Scan: 
+X and Y values: -14.8648 -736.35
+Angle used (Theta - Radians): 4.6922
+Angle used (Theta - Degree): 268.844
+Distance (Milimeters): 736.5
+
+Readings from the Lidar Scan: 
+X and Y values: 1.22175 -748.499
+Angle used (Theta - Radians): 4.71402
+Angle used (Theta - Degree): 270.094
+Distance (Milimeters): 748.5
+
+Readings from the Lidar Scan: 
+X and Y values: 95.9055 -1930.87
+Angle used (Theta - Radians): 4.76202
+Angle used (Theta - Degree): 272.844
+Distance (Milimeters): 1933.25
+
+Readings from the Lidar Scan: 
+X and Y values: 140.685 -1921.61
+Angle used (Theta - Radians): 4.78547
+Angle used (Theta - Degree): 274.188
+Distance (Milimeters): 1926.75
+
+Readings from the Lidar Scan: 
+X and Y values: 182.638 -1924.35
+Angle used (Theta - Radians): 4.80701
+Angle used (Theta - Degree): 275.422
+Distance (Milimeters): 1933
+
+Readings from the Lidar Scan: 
+X and Y values: 228.134 -1932.08
+Angle used (Theta - Radians): 4.82992
+Angle used (Theta - Degree): 276.734
+Distance (Milimeters): 1945.5
+
+Readings from the Lidar Scan: 
+X and Y values: 270.86 -1915.95
+Angle used (Theta - Radians): 4.85283
+Angle used (Theta - Degree): 278.047
+Distance (Milimeters): 1935
+
+Readings from the Lidar Scan: 
+X and Y values: 314.194 -1909.57
+Angle used (Theta - Radians): 4.87546
+Angle used (Theta - Degree): 279.344
+Distance (Milimeters): 1935.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 4.88419
+Angle used (Theta - Degree): 279.844
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 359.538 -1905.12
+Angle used (Theta - Radians): 4.89892
+Angle used (Theta - Degree): 280.688
+Distance (Milimeters): 1938.75
+
+Readings from the Lidar Scan: 
+X and Y values: 403.133 -1896.63
+Angle used (Theta - Radians): 4.92182
+Angle used (Theta - Degree): 282
+Distance (Milimeters): 1939
+
+Readings from the Lidar Scan: 
+X and Y values: 449.117 -1902.71
+Angle used (Theta - Radians): 4.94419
+Angle used (Theta - Degree): 283.281
+Distance (Milimeters): 1955
+
+Readings from the Lidar Scan: 
+X and Y values: 492.719 -1890.34
+Angle used (Theta - Radians): 4.96737
+Angle used (Theta - Degree): 284.609
+Distance (Milimeters): 1953.5
+
+Readings from the Lidar Scan: 
+X and Y values: 539.043 -1885.72
+Angle used (Theta - Radians): 4.99082
+Angle used (Theta - Degree): 285.953
+Distance (Milimeters): 1961.25
+
+Readings from the Lidar Scan: 
+X and Y values: 1737.98 -4929.33
+Angle used (Theta - Radians): 5.05136
+Angle used (Theta - Degree): 289.422
+Distance (Milimeters): 5226.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1850.44 -4888.23
+Angle used (Theta - Radians): 5.07427
+Angle used (Theta - Degree): 290.734
+Distance (Milimeters): 5226.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1969.22 -4866.42
+Angle used (Theta - Radians): 5.0969
+Angle used (Theta - Degree): 292.031
+Distance (Milimeters): 5249.75
+
+Readings from the Lidar Scan: 
+X and Y values: 2120.54 -4909.9
+Angle used (Theta - Radians): 5.12008
+Angle used (Theta - Degree): 293.359
+Distance (Milimeters): 5348.25
+
+Readings from the Lidar Scan: 
+X and Y values: 1094.13 -2349.75
+Angle used (Theta - Radians): 5.14817
+Angle used (Theta - Degree): 294.969
+Distance (Milimeters): 2592
+
+Readings from the Lidar Scan: 
+X and Y values: 1148.22 -2325.19
+Angle used (Theta - Radians): 5.17108
+Angle used (Theta - Degree): 296.281
+Distance (Milimeters): 2593.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.18226
+Angle used (Theta - Degree): 296.922
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 1216.41 -2328.97
+Angle used (Theta - Radians): 5.19371
+Angle used (Theta - Degree): 297.578
+Distance (Milimeters): 2627.5
+
+Readings from the Lidar Scan: 
+X and Y values: 2671.58 -4633.19
+Angle used (Theta - Radians): 5.23544
+Angle used (Theta - Degree): 299.969
+Distance (Milimeters): 5348.25
+
+Readings from the Lidar Scan: 
+X and Y values: 2814.52 -4632.53
+Angle used (Theta - Radians): 5.25835
+Angle used (Theta - Degree): 301.281
+Distance (Milimeters): 5420.5
+
+Readings from the Lidar Scan: 
+X and Y values: 2934.57 -4589.8
+Angle used (Theta - Radians): 5.28125
+Angle used (Theta - Degree): 302.594
+Distance (Milimeters): 5447.75
+
+Readings from the Lidar Scan: 
+X and Y values: 3101.27 -4614.13
+Angle used (Theta - Radians): 5.30416
+Angle used (Theta - Degree): 303.906
+Distance (Milimeters): 5559.5
+
+Readings from the Lidar Scan: 
+X and Y values: 3217.19 -4554.89
+Angle used (Theta - Radians): 5.32734
+Angle used (Theta - Degree): 305.234
+Distance (Milimeters): 5576.5
+
+Readings from the Lidar Scan: 
+X and Y values: 3351.23 -4518.66
+Angle used (Theta - Radians): 5.35052
+Angle used (Theta - Degree): 306.562
+Distance (Milimeters): 5625.75
+
+Readings from the Lidar Scan: 
+X and Y values: 4790.22 -4462.11
+Angle used (Theta - Radians): 5.53323
+Angle used (Theta - Degree): 317.031
+Distance (Milimeters): 6546.5
+
+Readings from the Lidar Scan: 
+X and Y values: 4859.04 -4322.64
+Angle used (Theta - Radians): 5.55614
+Angle used (Theta - Degree): 318.344
+Distance (Milimeters): 6503.5
+
+Readings from the Lidar Scan: 
+X and Y values: 5004.8 -4250.99
+Angle used (Theta - Radians): 5.57905
+Angle used (Theta - Degree): 319.656
+Distance (Milimeters): 6566.5
+
+Readings from the Lidar Scan: 
+X and Y values: 5191.93 -4209.08
+Angle used (Theta - Radians): 5.60196
+Angle used (Theta - Degree): 320.969
+Distance (Milimeters): 6683.75
+
+Readings from the Lidar Scan: 
+X and Y values: 5346.31 -4134.93
+Angle used (Theta - Radians): 5.62486
+Angle used (Theta - Degree): 322.281
+Distance (Milimeters): 6758.75
+
+Readings from the Lidar Scan: 
+X and Y values: 5550.28 -4093
+Angle used (Theta - Radians): 5.64777
+Angle used (Theta - Degree): 323.594
+Distance (Milimeters): 6896.25
+
+Readings from the Lidar Scan: 
+X and Y values: 5751.73 -4043.83
+Angle used (Theta - Radians): 5.67041
+Angle used (Theta - Degree): 324.891
+Distance (Milimeters): 7031
+
+Readings from the Lidar Scan: 
+X and Y values: 823.194 -473.183
+Angle used (Theta - Radians): 5.76149
+Angle used (Theta - Degree): 330.109
+Distance (Milimeters): 949.5
+
+Readings from the Lidar Scan: 
+X and Y values: 802.779 -436.446
+Angle used (Theta - Radians): 5.78522
+Angle used (Theta - Degree): 331.469
+Distance (Milimeters): 913.75
+
+Readings from the Lidar Scan: 
+X and Y values: 799.676 -409.11
+Angle used (Theta - Radians): 5.81031
+Angle used (Theta - Degree): 332.906
+Distance (Milimeters): 898.25
+
+Readings from the Lidar Scan: 
+X and Y values: 186.989 -62.0003
+Angle used (Theta - Radians): 5.96302
+Angle used (Theta - Degree): 341.656
+Distance (Milimeters): 197
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.00775
+Angle used (Theta - Degree): 344.219
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.03093
+Angle used (Theta - Degree): 345.547
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 188.868 -48.5161
+Angle used (Theta - Radians): 6.03174
+Angle used (Theta - Degree): 345.594
+Distance (Milimeters): 195
+
+Readings from the Lidar Scan: 
+X and Y values: 190.904 -44.4038
+Angle used (Theta - Radians): 6.05465
+Angle used (Theta - Degree): 346.906
+Distance (Milimeters): 196
+
+Readings from the Lidar Scan: 
+X and Y values: 190.169 -39.6102
+Angle used (Theta - Radians): 6.07783
+Angle used (Theta - Degree): 348.234
+Distance (Milimeters): 194.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.12256
+Angle used (Theta - Degree): 350.797
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.14546
+Angle used (Theta - Degree): 352.109
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 201.851 -27.7522
+Angle used (Theta - Radians): 6.14655
+Angle used (Theta - Degree): 352.172
+Distance (Milimeters): 203.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.19128
+Angle used (Theta - Degree): 354.734
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.21419
+Angle used (Theta - Degree): 356.047
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0
+Angle used (Theta - Degree): 0
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 150.365 10.7618
+Angle used (Theta - Radians): 0.0714494
+Angle used (Theta - Degree): 4.09375
+Distance (Milimeters): 150.75
+
+Readings from the Lidar Scan: 
+X and Y values: 144.6 13.7244
+Angle used (Theta - Radians): 0.0946295
+Angle used (Theta - Degree): 5.42188
+Distance (Milimeters): 145.25
+
+Readings from the Lidar Scan: 
+X and Y values: 146.731 17.3261
+Angle used (Theta - Radians): 0.117537
+Angle used (Theta - Degree): 6.73438
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 145.305 20.5425
+Angle used (Theta - Radians): 0.140444
+Angle used (Theta - Degree): 8.04688
+Distance (Milimeters): 146.75
+
+Readings from the Lidar Scan: 
+X and Y values: 145.117 26.405
+Angle used (Theta - Radians): 0.179987
+Angle used (Theta - Degree): 10.3125
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 144.204 27.2151
+Angle used (Theta - Radians): 0.186532
+Angle used (Theta - Degree): 10.6875
+Distance (Milimeters): 146.75
+
+Readings from the Lidar Scan: 
+X and Y values: 142.329 30.2123
+Angle used (Theta - Radians): 0.209167
+Angle used (Theta - Degree): 11.9844
+Distance (Milimeters): 145.5
+
+Readings from the Lidar Scan: 
+X and Y values: 175.699 85.1609
+Angle used (Theta - Radians): 0.451331
+Angle used (Theta - Degree): 25.8594
+Distance (Milimeters): 195.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.458421
+Angle used (Theta - Degree): 26.2656
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 167.697 86.0806
+Angle used (Theta - Radians): 0.474238
+Angle used (Theta - Degree): 27.1719
+Distance (Milimeters): 188.5
+
+Readings from the Lidar Scan: 
+X and Y values: 167.879 91.0915
+Angle used (Theta - Radians): 0.497146
+Angle used (Theta - Degree): 28.4844
+Distance (Milimeters): 191
+
+Readings from the Lidar Scan: 
+X and Y values: 169.003 96.7764
+Angle used (Theta - Radians): 0.520053
+Angle used (Theta - Degree): 29.7969
+Distance (Milimeters): 194.75
+
+Readings from the Lidar Scan: 
+X and Y values: 170.808 103.076
+Angle used (Theta - Radians): 0.542961
+Angle used (Theta - Degree): 31.1094
+Distance (Milimeters): 199.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.596139
+Angle used (Theta - Degree): 34.1562
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.619046
+Angle used (Theta - Degree): 35.4688
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.664861
+Angle used (Theta - Degree): 38.0938
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.687768
+Angle used (Theta - Degree): 39.4062
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 188.512 266.275
+Angle used (Theta - Radians): 0.954749
+Angle used (Theta - Degree): 54.7031
+Distance (Milimeters): 326.25
+
+Readings from the Lidar Scan: 
+X and Y values: 175.665 257.243
+Angle used (Theta - Radians): 0.971657
+Angle used (Theta - Degree): 55.6719
+Distance (Milimeters): 311.5
+
+Readings from the Lidar Scan: 
+X and Y values: 166.203 259.011
+Angle used (Theta - Radians): 1.00029
+Angle used (Theta - Degree): 57.3125
+Distance (Milimeters): 307.75
+
+Readings from the Lidar Scan: 
+X and Y values: 157.824 258.652
+Angle used (Theta - Radians): 1.02293
+Angle used (Theta - Degree): 58.6094
+Distance (Milimeters): 303
+
+Readings from the Lidar Scan: 
+X and Y values: 148.82 257.602
+Angle used (Theta - Radians): 1.04692
+Angle used (Theta - Degree): 59.9844
+Distance (Milimeters): 297.5
+
+Readings from the Lidar Scan: 
+X and Y values: 139.582 260.456
+Angle used (Theta - Radians): 1.07883
+Angle used (Theta - Degree): 61.8125
+Distance (Milimeters): 295.5
+
+Readings from the Lidar Scan: 
+X and Y values: 131.429 260.75
+Angle used (Theta - Radians): 1.10392
+Angle used (Theta - Degree): 63.25
+Distance (Milimeters): 292
+
+Readings from the Lidar Scan: 
+X and Y values: 123.029 260.123
+Angle used (Theta - Radians): 1.12901
+Angle used (Theta - Degree): 64.6875
+Distance (Milimeters): 287.75
+
+Readings from the Lidar Scan: 
+X and Y values: 119.411 260.704
+Angle used (Theta - Radians): 1.14128
+Angle used (Theta - Degree): 65.3906
+Distance (Milimeters): 286.75
+
+Readings from the Lidar Scan: 
+X and Y values: 112.648 260.431
+Angle used (Theta - Radians): 1.16255
+Angle used (Theta - Degree): 66.6094
+Distance (Milimeters): 283.75
+
+Readings from the Lidar Scan: 
+X and Y values: 102.202 261.755
+Angle used (Theta - Radians): 1.19855
+Angle used (Theta - Degree): 68.6719
+Distance (Milimeters): 281
+
+Readings from the Lidar Scan: 
+X and Y values: 90.9492 256.609
+Angle used (Theta - Radians): 1.23018
+Angle used (Theta - Degree): 70.4844
+Distance (Milimeters): 272.25
+
+Readings from the Lidar Scan: 
+X and Y values: 83.7716 254.044
+Angle used (Theta - Radians): 1.25227
+Angle used (Theta - Degree): 71.75
+Distance (Milimeters): 267.5
+
+Readings from the Lidar Scan: 
+X and Y values: 83.5429 261.478
+Angle used (Theta - Radians): 1.26154
+Angle used (Theta - Degree): 72.2812
+Distance (Milimeters): 274.5
+
+Readings from the Lidar Scan: 
+X and Y values: 78.3213 261.524
+Angle used (Theta - Radians): 1.27982
+Angle used (Theta - Degree): 73.3281
+Distance (Milimeters): 273
+
+Readings from the Lidar Scan: 
+X and Y values: 66.2567 263.291
+Angle used (Theta - Radians): 1.32427
+Angle used (Theta - Degree): 75.875
+Distance (Milimeters): 271.5
+
+Readings from the Lidar Scan: 
+X and Y values: 61.625 263.644
+Angle used (Theta - Radians): 1.34118
+Angle used (Theta - Degree): 76.8438
+Distance (Milimeters): 270.75
+
+Readings from the Lidar Scan: 
+X and Y values: 54.7886 264.127
+Angle used (Theta - Radians): 1.36626
+Angle used (Theta - Degree): 78.2812
+Distance (Milimeters): 269.75
+
+Readings from the Lidar Scan: 
+X and Y values: 51.5194 262.747
+Angle used (Theta - Radians): 1.37717
+Angle used (Theta - Degree): 78.9062
+Distance (Milimeters): 267.75
+
+Readings from the Lidar Scan: 
+X and Y values: 45.0731 263.168
+Angle used (Theta - Radians): 1.40117
+Angle used (Theta - Degree): 80.2812
+Distance (Milimeters): 267
+
+Readings from the Lidar Scan: 
+X and Y values: 35.9763 263.808
+Angle used (Theta - Radians): 1.43526
+Angle used (Theta - Degree): 82.2344
+Distance (Milimeters): 266.25
+
+Readings from the Lidar Scan: 
+X and Y values: 32.9625 263.698
+Angle used (Theta - Radians): 1.44644
+Angle used (Theta - Degree): 82.875
+Distance (Milimeters): 265.75
+
+Readings from the Lidar Scan: 
+X and Y values: 22.6005 263.282
+Angle used (Theta - Radians): 1.48516
+Angle used (Theta - Degree): 85.0938
+Distance (Milimeters): 264.25
+
+Readings from the Lidar Scan: 
+X and Y values: 18.1116 263.127
+Angle used (Theta - Radians): 1.50207
+Angle used (Theta - Degree): 86.0625
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 15.4557 263.297
+Angle used (Theta - Radians): 1.51216
+Angle used (Theta - Degree): 86.6406
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 5.61552 263.94
+Angle used (Theta - Radians): 1.54952
+Angle used (Theta - Degree): 88.7812
+Distance (Milimeters): 264
+
+Readings from the Lidar Scan: 
+X and Y values: 0.361689 265
+Angle used (Theta - Radians): 1.56943
+Angle used (Theta - Degree): 89.9219
+Distance (Milimeters): 265
+
+Readings from the Lidar Scan: 
+X and Y values: -6.96925 266.159
+Angle used (Theta - Radians): 1.59697
+Angle used (Theta - Degree): 91.5
+Distance (Milimeters): 266.25
+
+Readings from the Lidar Scan: 
+X and Y values: -8.67908 267.359
+Angle used (Theta - Radians): 1.60325
+Angle used (Theta - Degree): 91.8594
+Distance (Milimeters): 267.5
+
+Readings from the Lidar Scan: 
+X and Y values: -17.836 267.656
+Angle used (Theta - Radians): 1.63734
+Angle used (Theta - Degree): 93.8125
+Distance (Milimeters): 268.25
+
+Readings from the Lidar Scan: 
+X and Y values: -24.9788 267.838
+Angle used (Theta - Radians): 1.66379
+Angle used (Theta - Degree): 95.3281
+Distance (Milimeters): 269
+
+Readings from the Lidar Scan: 
+X and Y values: -28.9813 268.692
+Angle used (Theta - Radians): 1.67824
+Angle used (Theta - Degree): 96.1562
+Distance (Milimeters): 270.25
+
+Readings from the Lidar Scan: 
+X and Y values: -38.3362 268.527
+Angle used (Theta - Radians): 1.7126
+Angle used (Theta - Degree): 98.125
+Distance (Milimeters): 271.25
+
+Readings from the Lidar Scan: 
+X and Y values: -42.4812 269.168
+Angle used (Theta - Radians): 1.72733
+Angle used (Theta - Degree): 98.9688
+Distance (Milimeters): 272.5
+
+Readings from the Lidar Scan: 
+X and Y values: -50.0688 270.149
+Angle used (Theta - Radians): 1.75405
+Angle used (Theta - Degree): 100.5
+Distance (Milimeters): 274.75
+
+Readings from the Lidar Scan: 
+X and Y values: -54.2869 271.373
+Angle used (Theta - Radians): 1.76824
+Angle used (Theta - Degree): 101.312
+Distance (Milimeters): 276.75
+
+Readings from the Lidar Scan: 
+X and Y values: -61.1866 271.439
+Angle used (Theta - Radians): 1.79251
+Angle used (Theta - Degree): 102.703
+Distance (Milimeters): 278.25
+
+Readings from the Lidar Scan: 
+X and Y values: -68.763 274.519
+Angle used (Theta - Radians): 1.81623
+Angle used (Theta - Degree): 104.062
+Distance (Milimeters): 283
+
+Readings from the Lidar Scan: 
+X and Y values: -206.027 614.639
+Angle used (Theta - Radians): 1.89423
+Angle used (Theta - Degree): 108.531
+Distance (Milimeters): 648.25
+
+Readings from the Lidar Scan: 
+X and Y values: -219.288 607.642
+Angle used (Theta - Radians): 1.91713
+Angle used (Theta - Degree): 109.844
+Distance (Milimeters): 646
+
+Readings from the Lidar Scan: 
+X and Y values: -231.254 597.564
+Angle used (Theta - Radians): 1.94004
+Angle used (Theta - Degree): 111.156
+Distance (Milimeters): 640.75
+
+Readings from the Lidar Scan: 
+X and Y values: -242.812 586.202
+Angle used (Theta - Radians): 1.96349
+Angle used (Theta - Degree): 112.5
+Distance (Milimeters): 634.5
+
+Readings from the Lidar Scan: 
+X and Y values: -255.538 577.762
+Angle used (Theta - Radians): 1.98722
+Angle used (Theta - Degree): 113.859
+Distance (Milimeters): 631.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 1.99486
+Angle used (Theta - Degree): 114.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -265.901 566.997
+Angle used (Theta - Radians): 2.00931
+Angle used (Theta - Degree): 115.125
+Distance (Milimeters): 626.25
+
+Readings from the Lidar Scan: 
+X and Y values: -278.65 558.887
+Angle used (Theta - Radians): 2.03331
+Angle used (Theta - Degree): 116.5
+Distance (Milimeters): 624.5
+
+Readings from the Lidar Scan: 
+X and Y values: -289.694 550.984
+Angle used (Theta - Radians): 2.05485
+Angle used (Theta - Degree): 117.734
+Distance (Milimeters): 622.5
+
+Readings from the Lidar Scan: 
+X and Y values: -304.14 543.43
+Angle used (Theta - Radians): 2.08103
+Angle used (Theta - Degree): 119.234
+Distance (Milimeters): 622.75
+
+Readings from the Lidar Scan: 
+X and Y values: -316.996 537.484
+Angle used (Theta - Radians): 2.10367
+Angle used (Theta - Degree): 120.531
+Distance (Milimeters): 624
+
+Readings from the Lidar Scan: 
+X and Y values: -325.96 523.869
+Angle used (Theta - Radians): 2.12739
+Angle used (Theta - Degree): 121.891
+Distance (Milimeters): 617
+
+Readings from the Lidar Scan: 
+X and Y values: -334.09 310.355
+Angle used (Theta - Radians): 2.39301
+Angle used (Theta - Degree): 137.109
+Distance (Milimeters): 456
+
+Readings from the Lidar Scan: 
+X and Y values: -333.494 296.514
+Angle used (Theta - Radians): 2.41482
+Angle used (Theta - Degree): 138.359
+Distance (Milimeters): 446.25
+
+Readings from the Lidar Scan: 
+X and Y values: -339.85 288.821
+Angle used (Theta - Radians): 2.43719
+Angle used (Theta - Degree): 139.641
+Distance (Milimeters): 446
+
+Readings from the Lidar Scan: 
+X and Y values: -349.4 281.994
+Angle used (Theta - Radians): 2.46255
+Angle used (Theta - Degree): 141.094
+Distance (Milimeters): 449
+
+Readings from the Lidar Scan: 
+X and Y values: -359.019 275.019
+Angle used (Theta - Radians): 2.48791
+Angle used (Theta - Degree): 142.547
+Distance (Milimeters): 452.25
+
+Readings from the Lidar Scan: 
+X and Y values: -366.27 269.946
+Angle used (Theta - Radians): 2.50645
+Angle used (Theta - Degree): 143.609
+Distance (Milimeters): 455
+
+Readings from the Lidar Scan: 
+X and Y values: -377.472 265.078
+Angle used (Theta - Radians): 2.52936
+Angle used (Theta - Degree): 144.922
+Distance (Milimeters): 461.25
+
+Readings from the Lidar Scan: 
+X and Y values: -398.491 265.793
+Angle used (Theta - Radians): 2.55336
+Angle used (Theta - Degree): 146.297
+Distance (Milimeters): 479
+
+Readings from the Lidar Scan: 
+X and Y values: -407.704 260.833
+Angle used (Theta - Radians): 2.57245
+Angle used (Theta - Degree): 147.391
+Distance (Milimeters): 484
+
+Readings from the Lidar Scan: 
+X and Y values: -417.762 253.194
+Angle used (Theta - Radians): 2.59672
+Angle used (Theta - Degree): 148.781
+Distance (Milimeters): 488.5
+
+Readings from the Lidar Scan: 
+X and Y values: -428.141 248.436
+Angle used (Theta - Radians): 2.61581
+Angle used (Theta - Degree): 149.875
+Distance (Milimeters): 495
+
+Readings from the Lidar Scan: 
+X and Y values: -435.479 236.909
+Angle used (Theta - Radians): 2.64335
+Angle used (Theta - Degree): 151.453
+Distance (Milimeters): 495.75
+
+Readings from the Lidar Scan: 
+X and Y values: -432.244 222.174
+Angle used (Theta - Radians): 2.66681
+Angle used (Theta - Degree): 152.797
+Distance (Milimeters): 486
+
+Readings from the Lidar Scan: 
+X and Y values: -715.951 287.449
+Angle used (Theta - Radians): 2.7598
+Angle used (Theta - Degree): 158.125
+Distance (Milimeters): 771.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 2.84325
+Angle used (Theta - Degree): 162.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -238.607 57.767
+Angle used (Theta - Radians): 2.90406
+Angle used (Theta - Degree): 166.391
+Distance (Milimeters): 245.5
+
+Readings from the Lidar Scan: 
+X and Y values: -277.185 44.6001
+Angle used (Theta - Radians): 2.98206
+Angle used (Theta - Degree): 170.859
+Distance (Milimeters): 280.75
+
+Readings from the Lidar Scan: 
+X and Y values: -253.483 32.0371
+Angle used (Theta - Radians): 3.01587
+Angle used (Theta - Degree): 172.797
+Distance (Milimeters): 255.5
+
+Readings from the Lidar Scan: 
+X and Y values: -247.577 18.263
+Angle used (Theta - Radians): 3.06796
+Angle used (Theta - Degree): 175.781
+Distance (Milimeters): 248.25
+
+Readings from the Lidar Scan: 
+X and Y values: -2454.49 -664.131
+Angle used (Theta - Radians): 3.40584
+Angle used (Theta - Degree): 195.141
+Distance (Milimeters): 2542.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 3.53129
+Angle used (Theta - Degree): 202.328
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -181.016 -142.701
+Angle used (Theta - Radians): 3.80918
+Angle used (Theta - Degree): 218.25
+Distance (Milimeters): 230.5
+
+Readings from the Lidar Scan: 
+X and Y values: -580.795 -674.042
+Angle used (Theta - Radians): 4.00116
+Angle used (Theta - Degree): 229.25
+Distance (Milimeters): 889.75
+
+Readings from the Lidar Scan: 
+X and Y values: -560.679 -680.531
+Angle used (Theta - Radians): 4.02325
+Angle used (Theta - Degree): 230.516
+Distance (Milimeters): 881.75
+
+Readings from the Lidar Scan: 
+X and Y values: -546.856 -698.368
+Angle used (Theta - Radians): 4.04807
+Angle used (Theta - Degree): 231.938
+Distance (Milimeters): 887
+
+Readings from the Lidar Scan: 
+X and Y values: -529.565 -705.951
+Angle used (Theta - Radians): 4.0688
+Angle used (Theta - Degree): 233.125
+Distance (Milimeters): 882.5
+
+Readings from the Lidar Scan: 
+X and Y values: -514.172 -720.007
+Angle used (Theta - Radians): 4.09225
+Angle used (Theta - Degree): 234.469
+Distance (Milimeters): 884.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 4.10452
+Angle used (Theta - Degree): 235.172
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -495.787 -731.58
+Angle used (Theta - Radians): 4.11679
+Angle used (Theta - Degree): 235.875
+Distance (Milimeters): 883.75
+
+Readings from the Lidar Scan: 
+X and Y values: -482.288 -746.211
+Angle used (Theta - Radians): 4.13861
+Angle used (Theta - Degree): 237.125
+Distance (Milimeters): 888.5
+
+Readings from the Lidar Scan: 
+X and Y values: -425.851 -695.772
+Angle used (Theta - Radians): 4.16315
+Angle used (Theta - Degree): 238.531
+Distance (Milimeters): 815.75
+
+Readings from the Lidar Scan: 
+X and Y values: -392.192 -679.719
+Angle used (Theta - Radians): 4.18906
+Angle used (Theta - Degree): 240.016
+Distance (Milimeters): 784.75
+
+Readings from the Lidar Scan: 
+X and Y values: -375.468 -684.825
+Angle used (Theta - Radians): 4.21088
+Angle used (Theta - Degree): 241.266
+Distance (Milimeters): 781
+
+Readings from the Lidar Scan: 
+X and Y values: -360.119 -697.805
+Angle used (Theta - Radians): 4.23597
+Angle used (Theta - Degree): 242.703
+Distance (Milimeters): 785.25
+
+Readings from the Lidar Scan: 
+X and Y values: -343.356 -702.032
+Angle used (Theta - Radians): 4.25751
+Angle used (Theta - Degree): 243.938
+Distance (Milimeters): 781.5
+
+Readings from the Lidar Scan: 
+X and Y values: -320.757 -700.285
+Angle used (Theta - Radians): 4.28287
+Angle used (Theta - Degree): 245.391
+Distance (Milimeters): 770.25
+
+Readings from the Lidar Scan: 
+X and Y values: -300.685 -698.805
+Angle used (Theta - Radians): 4.30605
+Angle used (Theta - Degree): 246.719
+Distance (Milimeters): 760.75
+
+Readings from the Lidar Scan: 
+X and Y values: -271.245 -676.12
+Angle used (Theta - Radians): 4.33087
+Angle used (Theta - Degree): 248.141
+Distance (Milimeters): 728.5
+
+Readings from the Lidar Scan: 
+X and Y values: -256.733 -680.427
+Angle used (Theta - Radians): 4.35159
+Angle used (Theta - Degree): 249.328
+Distance (Milimeters): 727.25
+
+Readings from the Lidar Scan: 
+X and Y values: -234.678 -671.418
+Angle used (Theta - Radians): 4.37614
+Angle used (Theta - Degree): 250.734
+Distance (Milimeters): 711.25
+
+Readings from the Lidar Scan: 
+X and Y values: -217.931 -675.726
+Angle used (Theta - Radians): 4.40041
+Angle used (Theta - Degree): 252.125
+Distance (Milimeters): 710
+
+Readings from the Lidar Scan: 
+X and Y values: -203.808 -679.858
+Angle used (Theta - Radians): 4.42113
+Angle used (Theta - Degree): 253.312
+Distance (Milimeters): 709.75
+
+Readings from the Lidar Scan: 
+X and Y values: -192.292 -699.293
+Angle used (Theta - Radians): 4.44404
+Angle used (Theta - Degree): 254.625
+Distance (Milimeters): 725.25
+
+Readings from the Lidar Scan: 
+X and Y values: -177.55 -704.728
+Angle used (Theta - Radians): 4.46558
+Angle used (Theta - Degree): 255.859
+Distance (Milimeters): 726.75
+
+Readings from the Lidar Scan: 
+X and Y values: -161.693 -713.662
+Angle used (Theta - Radians): 4.48958
+Angle used (Theta - Degree): 257.234
+Distance (Milimeters): 731.75
+
+Readings from the Lidar Scan: 
+X and Y values: -146.794 -725.549
+Angle used (Theta - Radians): 4.51276
+Angle used (Theta - Degree): 258.562
+Distance (Milimeters): 740.25
+
+Readings from the Lidar Scan: 
+X and Y values: -131.579 -739.13
+Angle used (Theta - Radians): 4.53622
+Angle used (Theta - Degree): 259.906
+Distance (Milimeters): 750.75
+
+Readings from the Lidar Scan: 
+X and Y values: -117.962 -754.079
+Angle used (Theta - Radians): 4.55721
+Angle used (Theta - Degree): 261.109
+Distance (Milimeters): 763.25
+
+Readings from the Lidar Scan: 
+X and Y values: -97.147 -737.882
+Angle used (Theta - Radians): 4.58149
+Angle used (Theta - Degree): 262.5
+Distance (Milimeters): 744.25
+
+Readings from the Lidar Scan: 
+X and Y values: -80.6235 -739.87
+Angle used (Theta - Radians): 4.60385
+Angle used (Theta - Degree): 263.781
+Distance (Milimeters): 744.25
+
+Readings from the Lidar Scan: 
+X and Y values: -61.1082 -732.957
+Angle used (Theta - Radians): 4.62921
+Angle used (Theta - Degree): 265.234
+Distance (Milimeters): 735.5
+
+Readings from the Lidar Scan: 
+X and Y values: -44.4757 -723.885
+Angle used (Theta - Radians): 4.65103
+Angle used (Theta - Degree): 266.484
+Distance (Milimeters): 725.25
+
+Readings from the Lidar Scan: 
+X and Y values: -26.5593 -721.011
+Angle used (Theta - Radians): 4.67557
+Angle used (Theta - Degree): 267.891
+Distance (Milimeters): 721.5
+
+Readings from the Lidar Scan: 
+X and Y values: -11.1431 -729.415
+Angle used (Theta - Radians): 4.69711
+Angle used (Theta - Degree): 269.125
+Distance (Milimeters): 729.5
+
+Readings from the Lidar Scan: 
+X and Y values: 4.4397 -740.487
+Angle used (Theta - Radians): 4.71838
+Angle used (Theta - Degree): 270.344
+Distance (Milimeters): 740.5
+
+Readings from the Lidar Scan: 
+X and Y values: 105.232 -1927.63
+Angle used (Theta - Radians): 4.76693
+Angle used (Theta - Degree): 273.125
+Distance (Milimeters): 1930.5
+
+Readings from the Lidar Scan: 
+X and Y values: 149.145 -1915.2
+Angle used (Theta - Radians): 4.79011
+Angle used (Theta - Degree): 274.453
+Distance (Milimeters): 1921
+
+Readings from the Lidar Scan: 
+X and Y values: 235.833 -1925.11
+Angle used (Theta - Radians): 4.83429
+Angle used (Theta - Degree): 276.984
+Distance (Milimeters): 1939.5
+
+Readings from the Lidar Scan: 
+X and Y values: 280.281 -1918.38
+Angle used (Theta - Radians): 4.85747
+Angle used (Theta - Degree): 278.312
+Distance (Milimeters): 1938.75
+
+Readings from the Lidar Scan: 
+X and Y values: 322.857 -1910.16
+Angle used (Theta - Radians): 4.87983
+Angle used (Theta - Degree): 279.594
+Distance (Milimeters): 1937.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 4.88419
+Angle used (Theta - Degree): 279.844
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 366.809 -1903.73
+Angle used (Theta - Radians): 4.90273
+Angle used (Theta - Degree): 280.906
+Distance (Milimeters): 1938.75
+
+Readings from the Lidar Scan: 
+X and Y values: 410.159 -1894.1
+Angle used (Theta - Radians): 4.92564
+Angle used (Theta - Degree): 282.219
+Distance (Milimeters): 1938
+
+Readings from the Lidar Scan: 
+X and Y values: 454.595 -1886.76
+Angle used (Theta - Radians): 4.94882
+Angle used (Theta - Degree): 283.547
+Distance (Milimeters): 1940.75
+
+Readings from the Lidar Scan: 
+X and Y values: 498.14 -1875.47
+Angle used (Theta - Radians): 4.972
+Angle used (Theta - Degree): 284.875
+Distance (Milimeters): 1940.5
+
+Readings from the Lidar Scan: 
+X and Y values: 543.569 -1870.62
+Angle used (Theta - Radians): 4.99518
+Angle used (Theta - Degree): 286.203
+Distance (Milimeters): 1948
+
+Readings from the Lidar Scan: 
+X and Y values: 1744.68 -4884.51
+Angle used (Theta - Radians): 5.05545
+Angle used (Theta - Degree): 289.656
+Distance (Milimeters): 5186.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1877.22 -4898.36
+Angle used (Theta - Radians): 5.07836
+Angle used (Theta - Degree): 290.969
+Distance (Milimeters): 5245.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1980.12 -4840.12
+Angle used (Theta - Radians): 5.10072
+Angle used (Theta - Degree): 292.25
+Distance (Milimeters): 5229.5
+
+Readings from the Lidar Scan: 
+X and Y values: 2116.27 -4849.06
+Angle used (Theta - Radians): 5.1239
+Angle used (Theta - Degree): 293.578
+Distance (Milimeters): 5290.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1118.42 -2378.13
+Angle used (Theta - Radians): 5.15199
+Angle used (Theta - Degree): 295.188
+Distance (Milimeters): 2628
+
+Readings from the Lidar Scan: 
+X and Y values: 1163.26 -2334.76
+Angle used (Theta - Radians): 5.17462
+Angle used (Theta - Degree): 296.484
+Distance (Milimeters): 2608.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.18226
+Angle used (Theta - Degree): 296.922
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 1224.54 -2324.42
+Angle used (Theta - Radians): 5.19726
+Angle used (Theta - Degree): 297.781
+Distance (Milimeters): 2627.25
+
+Readings from the Lidar Scan: 
+X and Y values: 2674.52 -4589
+Angle used (Theta - Radians): 5.24007
+Angle used (Theta - Degree): 300.234
+Distance (Milimeters): 5311.5
+
+Readings from the Lidar Scan: 
+X and Y values: 2799.47 -4559.99
+Angle used (Theta - Radians): 5.26298
+Angle used (Theta - Degree): 301.547
+Distance (Milimeters): 5350.75
+
+Readings from the Lidar Scan: 
+X and Y values: 2898.84 -4487.95
+Angle used (Theta - Radians): 5.28589
+Angle used (Theta - Degree): 302.859
+Distance (Milimeters): 5342.75
+
+Readings from the Lidar Scan: 
+X and Y values: 3057.89 -4504.35
+Angle used (Theta - Radians): 5.3088
+Angle used (Theta - Degree): 304.172
+Distance (Milimeters): 5444.25
+
+Readings from the Lidar Scan: 
+X and Y values: 3200.9 -4490.12
+Angle used (Theta - Radians): 5.3317
+Angle used (Theta - Degree): 305.484
+Distance (Milimeters): 5514.25
+
+Readings from the Lidar Scan: 
+X and Y values: 3333.45 -4456.47
+Angle used (Theta - Radians): 5.35461
+Angle used (Theta - Degree): 306.797
+Distance (Milimeters): 5565.25
+
+Readings from the Lidar Scan: 
+X and Y values: 833.942 -474.533
+Angle used (Theta - Radians): 5.76585
+Angle used (Theta - Degree): 330.359
+Distance (Milimeters): 959.5
+
+Readings from the Lidar Scan: 
+X and Y values: 818.566 -439.836
+Angle used (Theta - Radians): 5.79012
+Angle used (Theta - Degree): 331.75
+Distance (Milimeters): 929.25
+
+Readings from the Lidar Scan: 
+X and Y values: 806.584 -409.872
+Angle used (Theta - Radians): 5.81303
+Angle used (Theta - Degree): 333.062
+Distance (Milimeters): 904.75
+
+Readings from the Lidar Scan: 
+X and Y values: 196.201 -69.0584
+Angle used (Theta - Radians): 5.94475
+Angle used (Theta - Degree): 340.609
+Distance (Milimeters): 208
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.98484
+Angle used (Theta - Degree): 342.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.00775
+Angle used (Theta - Degree): 344.219
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 195.179 -53.9571
+Angle used (Theta - Radians): 6.01347
+Angle used (Theta - Degree): 344.547
+Distance (Milimeters): 202.5
+
+Readings from the Lidar Scan: 
+X and Y values: 189.091 -47.64
+Angle used (Theta - Radians): 6.03638
+Angle used (Theta - Degree): 345.859
+Distance (Milimeters): 195
+
+Readings from the Lidar Scan: 
+X and Y values: 190.864 -43.4628
+Angle used (Theta - Radians): 6.05929
+Angle used (Theta - Degree): 347.172
+Distance (Milimeters): 195.75
+
+Readings from the Lidar Scan: 
+X and Y values: 186.675 -37.9805
+Angle used (Theta - Radians): 6.08247
+Angle used (Theta - Degree): 348.5
+Distance (Milimeters): 190.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.12256
+Angle used (Theta - Degree): 350.797
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.14546
+Angle used (Theta - Degree): 352.109
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 203.217 -26.9806
+Angle used (Theta - Radians): 6.15119
+Angle used (Theta - Degree): 352.438
+Distance (Milimeters): 205
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.19128
+Angle used (Theta - Degree): 354.734
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.21419
+Angle used (Theta - Degree): 356.047
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0
+Angle used (Theta - Degree): 0
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 146.236 12.2717
+Angle used (Theta - Radians): 0.0837212
+Angle used (Theta - Degree): 4.79688
+Distance (Milimeters): 146.75
+
+Readings from the Lidar Scan: 
+X and Y values: 147.412 13.1805
+Angle used (Theta - Radians): 0.0891753
+Angle used (Theta - Degree): 5.10938
+Distance (Milimeters): 148
+
+Readings from the Lidar Scan: 
+X and Y values: 146.823 16.5256
+Angle used (Theta - Radians): 0.112083
+Angle used (Theta - Degree): 6.42188
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 146.153 19.8905
+Angle used (Theta - Radians): 0.135263
+Angle used (Theta - Degree): 7.75
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 146.153 23.3117
+Angle used (Theta - Radians): 0.15817
+Angle used (Theta - Degree): 9.0625
+Distance (Milimeters): 148
+
+Readings from the Lidar Scan: 
+X and Y values: 145.334 26.6083
+Angle used (Theta - Radians): 0.181078
+Angle used (Theta - Degree): 10.375
+Distance (Milimeters): 147.75
+
+Readings from the Lidar Scan: 
+X and Y values: 142.483 29.4744
+Angle used (Theta - Radians): 0.203985
+Angle used (Theta - Degree): 11.6875
+Distance (Milimeters): 145.5
+
+Readings from the Lidar Scan: 
+X and Y values: 137.394 52.2681
+Angle used (Theta - Radians): 0.363519
+Angle used (Theta - Degree): 20.8281
+Distance (Milimeters): 147
+
+Readings from the Lidar Scan: 
+X and Y values: 265.321 106.104
+Angle used (Theta - Radians): 0.380427
+Angle used (Theta - Degree): 21.7969
+Distance (Milimeters): 285.75
+
+Readings from the Lidar Scan: 
+X and Y values: 171.132 81.9695
+Angle used (Theta - Radians): 0.446695
+Angle used (Theta - Degree): 25.5938
+Distance (Milimeters): 189.75
+
+Readings from the Lidar Scan: 
+X and Y values: 169.679 86.0479
+Angle used (Theta - Radians): 0.46933
+Angle used (Theta - Degree): 26.8906
+Distance (Milimeters): 190.25
+
+Readings from the Lidar Scan: 
+X and Y values: 167.883 90.03
+Angle used (Theta - Radians): 0.492237
+Angle used (Theta - Degree): 28.2031
+Distance (Milimeters): 190.5
+
+Readings from the Lidar Scan: 
+X and Y values: 169.014 95.7454
+Angle used (Theta - Radians): 0.515417
+Angle used (Theta - Degree): 29.5312
+Distance (Milimeters): 194.25
+
+Readings from the Lidar Scan: 
+X and Y values: 170.239 101.596
+Angle used (Theta - Radians): 0.538052
+Angle used (Theta - Degree): 30.8281
+Distance (Milimeters): 198.25
+
+Readings from the Lidar Scan: 
+X and Y values: 173.159 108.794
+Angle used (Theta - Radians): 0.560959
+Angle used (Theta - Degree): 32.1406
+Distance (Milimeters): 204.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.619046
+Angle used (Theta - Degree): 35.4688
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 205.081 154.89
+Angle used (Theta - Radians): 0.646862
+Angle used (Theta - Degree): 37.0625
+Distance (Milimeters): 257
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.664861
+Angle used (Theta - Degree): 38.0938
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.687768
+Angle used (Theta - Degree): 39.4062
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 174.889 258.979
+Angle used (Theta - Radians): 0.976838
+Angle used (Theta - Degree): 55.9688
+Distance (Milimeters): 312.5
+
+Readings from the Lidar Scan: 
+X and Y values: 168.793 258.526
+Angle used (Theta - Radians): 0.992382
+Angle used (Theta - Degree): 56.8594
+Distance (Milimeters): 308.75
+
+Readings from the Lidar Scan: 
+X and Y values: 160.435 259.101
+Angle used (Theta - Radians): 1.01638
+Angle used (Theta - Degree): 58.2344
+Distance (Milimeters): 304.75
+
+Readings from the Lidar Scan: 
+X and Y values: 151.148 258.852
+Angle used (Theta - Radians): 1.04229
+Angle used (Theta - Degree): 59.7188
+Distance (Milimeters): 299.75
+
+Readings from the Lidar Scan: 
+X and Y values: 141.518 259.124
+Angle used (Theta - Radians): 1.07092
+Angle used (Theta - Degree): 61.3594
+Distance (Milimeters): 295.25
+
+Readings from the Lidar Scan: 
+X and Y values: 133.073 259.071
+Angle used (Theta - Radians): 1.09628
+Angle used (Theta - Degree): 62.8125
+Distance (Milimeters): 291.25
+
+Readings from the Lidar Scan: 
+X and Y values: 125.512 259.489
+Angle used (Theta - Radians): 1.12028
+Angle used (Theta - Degree): 64.1875
+Distance (Milimeters): 288.25
+
+Readings from the Lidar Scan: 
+X and Y values: 120.374 259.434
+Angle used (Theta - Radians): 1.13637
+Angle used (Theta - Degree): 65.1094
+Distance (Milimeters): 286
+
+Readings from the Lidar Scan: 
+X and Y values: 111.161 259.71
+Angle used (Theta - Radians): 1.16637
+Angle used (Theta - Degree): 66.8281
+Distance (Milimeters): 282.5
+
+Readings from the Lidar Scan: 
+X and Y values: 105.715 259.816
+Angle used (Theta - Radians): 1.18437
+Angle used (Theta - Degree): 67.8594
+Distance (Milimeters): 280.5
+
+Readings from the Lidar Scan: 
+X and Y values: 94.0172 256.566
+Angle used (Theta - Radians): 1.21955
+Angle used (Theta - Degree): 69.875
+Distance (Milimeters): 273.25
+
+Readings from the Lidar Scan: 
+X and Y values: 79.8178 261.071
+Angle used (Theta - Radians): 1.27409
+Angle used (Theta - Degree): 73
+Distance (Milimeters): 273
+
+Readings from the Lidar Scan: 
+X and Y values: 71.4732 262.442
+Angle used (Theta - Radians): 1.30491
+Angle used (Theta - Degree): 74.7656
+Distance (Milimeters): 272
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.30681
+Angle used (Theta - Degree): 74.875
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.32999
+Angle used (Theta - Degree): 76.2031
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 64.2227 262.765
+Angle used (Theta - Radians): 1.33109
+Angle used (Theta - Degree): 76.2656
+Distance (Milimeters): 270.5
+
+Readings from the Lidar Scan: 
+X and Y values: 57.936 262.687
+Angle used (Theta - Radians): 1.35372
+Angle used (Theta - Degree): 77.5625
+Distance (Milimeters): 269
+
+Readings from the Lidar Scan: 
+X and Y values: 50.4195 263.215
+Angle used (Theta - Radians): 1.38154
+Angle used (Theta - Degree): 79.1562
+Distance (Milimeters): 268
+
+Readings from the Lidar Scan: 
+X and Y values: 42.3508 264.126
+Angle used (Theta - Radians): 1.41181
+Angle used (Theta - Degree): 80.8906
+Distance (Milimeters): 267.5
+
+Readings from the Lidar Scan: 
+X and Y values: 39.3176 263.078
+Angle used (Theta - Radians): 1.42244
+Angle used (Theta - Degree): 81.5
+Distance (Milimeters): 266
+
+Readings from the Lidar Scan: 
+X and Y values: 29.3194 264.379
+Angle used (Theta - Radians): 1.46035
+Angle used (Theta - Degree): 83.6719
+Distance (Milimeters): 266
+
+Readings from the Lidar Scan: 
+X and Y values: 25.9749 263.724
+Angle used (Theta - Radians): 1.47262
+Angle used (Theta - Degree): 84.375
+Distance (Milimeters): 265
+
+Readings from the Lidar Scan: 
+X and Y values: 20.6418 263.192
+Angle used (Theta - Radians): 1.49253
+Angle used (Theta - Degree): 85.5156
+Distance (Milimeters): 264
+
+Readings from the Lidar Scan: 
+X and Y values: 14.2254 261.864
+Angle used (Theta - Radians): 1.51653
+Angle used (Theta - Degree): 86.8906
+Distance (Milimeters): 262.25
+
+Readings from the Lidar Scan: 
+X and Y values: 4.98651 264.953
+Angle used (Theta - Radians): 1.55198
+Angle used (Theta - Degree): 88.9219
+Distance (Milimeters): 265
+
+Readings from the Lidar Scan: 
+X and Y values: 4.90035 264.205
+Angle used (Theta - Radians): 1.55225
+Angle used (Theta - Degree): 88.9375
+Distance (Milimeters): 264.25
+
+Readings from the Lidar Scan: 
+X and Y values: -1.08672 265.748
+Angle used (Theta - Radians): 1.57489
+Angle used (Theta - Degree): 90.2344
+Distance (Milimeters): 265.75
+
+Readings from the Lidar Scan: 
+X and Y values: -10.8255 266.28
+Angle used (Theta - Radians): 1.61143
+Angle used (Theta - Degree): 92.3281
+Distance (Milimeters): 266.5
+
+Readings from the Lidar Scan: 
+X and Y values: -18.4199 267.617
+Angle used (Theta - Radians): 1.63952
+Angle used (Theta - Degree): 93.9375
+Distance (Milimeters): 268.25
+
+Readings from the Lidar Scan: 
+X and Y values: -19.4588 268.797
+Angle used (Theta - Radians): 1.64306
+Angle used (Theta - Degree): 94.1406
+Distance (Milimeters): 269.5
+
+Readings from the Lidar Scan: 
+X and Y values: -26.9288 268.905
+Angle used (Theta - Radians): 1.67061
+Angle used (Theta - Degree): 95.7188
+Distance (Milimeters): 270.25
+
+Readings from the Lidar Scan: 
+X and Y values: -32.1171 270.097
+Angle used (Theta - Radians): 1.68915
+Angle used (Theta - Degree): 96.7812
+Distance (Milimeters): 272
+
+Readings from the Lidar Scan: 
+X and Y values: -42.0407 269.237
+Angle used (Theta - Radians): 1.72569
+Angle used (Theta - Degree): 98.875
+Distance (Milimeters): 272.5
+
+Readings from the Lidar Scan: 
+X and Y values: -47.9033 269.526
+Angle used (Theta - Radians): 1.74669
+Angle used (Theta - Degree): 100.078
+Distance (Milimeters): 273.75
+
+Readings from the Lidar Scan: 
+X and Y values: -53.0234 272.387
+Angle used (Theta - Radians): 1.76305
+Angle used (Theta - Degree): 101.016
+Distance (Milimeters): 277.5
+
+Readings from the Lidar Scan: 
+X and Y values: -60.9209 273.036
+Angle used (Theta - Radians): 1.79032
+Angle used (Theta - Degree): 102.578
+Distance (Milimeters): 279.75
+
+Readings from the Lidar Scan: 
+X and Y values: -68.2533 274.388
+Angle used (Theta - Radians): 1.8146
+Angle used (Theta - Degree): 103.969
+Distance (Milimeters): 282.75
+
+Readings from the Lidar Scan: 
+X and Y values: -204.902 616.859
+Angle used (Theta - Radians): 1.8915
+Angle used (Theta - Degree): 108.375
+Distance (Milimeters): 650
+
+Readings from the Lidar Scan: 
+X and Y values: -216.47 609.182
+Angle used (Theta - Radians): 1.91222
+Angle used (Theta - Degree): 109.562
+Distance (Milimeters): 646.5
+
+Readings from the Lidar Scan: 
+X and Y values: -228.923 596.854
+Angle used (Theta - Radians): 1.93704
+Angle used (Theta - Degree): 110.984
+Distance (Milimeters): 639.25
+
+Readings from the Lidar Scan: 
+X and Y values: -241.402 587.324
+Angle used (Theta - Radians): 1.96077
+Angle used (Theta - Degree): 112.344
+Distance (Milimeters): 635
+
+Readings from the Lidar Scan: 
+X and Y values: -254.018 578.158
+Angle used (Theta - Radians): 1.98476
+Angle used (Theta - Degree): 113.719
+Distance (Milimeters): 631.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 1.99486
+Angle used (Theta - Degree): 114.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -263.981 566.515
+Angle used (Theta - Radians): 2.00685
+Angle used (Theta - Degree): 114.984
+Distance (Milimeters): 625
+
+Readings from the Lidar Scan: 
+X and Y values: -276.348 558.077
+Angle used (Theta - Radians): 2.03058
+Angle used (Theta - Degree): 116.344
+Distance (Milimeters): 622.75
+
+Readings from the Lidar Scan: 
+X and Y values: -286.133 550.025
+Angle used (Theta - Radians): 2.05049
+Angle used (Theta - Degree): 117.484
+Distance (Milimeters): 620
+
+Readings from the Lidar Scan: 
+X and Y values: -299.317 540.679
+Angle used (Theta - Radians): 2.07639
+Angle used (Theta - Degree): 118.969
+Distance (Milimeters): 618
+
+Readings from the Lidar Scan: 
+X and Y values: -311.554 532.563
+Angle used (Theta - Radians): 2.10012
+Angle used (Theta - Degree): 120.328
+Distance (Milimeters): 617
+
+Readings from the Lidar Scan: 
+X and Y values: -322.145 525.051
+Angle used (Theta - Radians): 2.12112
+Angle used (Theta - Degree): 121.531
+Distance (Milimeters): 616
+
+Readings from the Lidar Scan: 
+X and Y values: -335.83 299.905
+Angle used (Theta - Radians): 2.41264
+Angle used (Theta - Degree): 138.234
+Distance (Milimeters): 450.25
+
+Readings from the Lidar Scan: 
+X and Y values: -340.12 288.89
+Angle used (Theta - Radians): 2.43746
+Angle used (Theta - Degree): 139.656
+Distance (Milimeters): 446.25
+
+Readings from the Lidar Scan: 
+X and Y values: -348.472 282.346
+Angle used (Theta - Radians): 2.46064
+Angle used (Theta - Degree): 140.984
+Distance (Milimeters): 448.5
+
+Readings from the Lidar Scan: 
+X and Y values: -356.104 278.377
+Angle used (Theta - Radians): 2.47809
+Angle used (Theta - Degree): 141.984
+Distance (Milimeters): 452
+
+Readings from the Lidar Scan: 
+X and Y values: -364.073 269.555
+Angle used (Theta - Radians): 2.50427
+Angle used (Theta - Degree): 143.484
+Distance (Milimeters): 453
+
+Readings from the Lidar Scan: 
+X and Y values: -372.173 263.484
+Angle used (Theta - Radians): 2.52554
+Angle used (Theta - Degree): 144.703
+Distance (Milimeters): 456
+
+Readings from the Lidar Scan: 
+X and Y values: -395.523 266.628
+Angle used (Theta - Radians): 2.54845
+Angle used (Theta - Degree): 146.016
+Distance (Milimeters): 477
+
+Readings from the Lidar Scan: 
+X and Y values: -406.298 260.246
+Angle used (Theta - Radians): 2.5719
+Angle used (Theta - Degree): 147.359
+Distance (Milimeters): 482.5
+
+Readings from the Lidar Scan: 
+X and Y values: -415.879 255.321
+Angle used (Theta - Radians): 2.59099
+Angle used (Theta - Degree): 148.453
+Distance (Milimeters): 488
+
+Readings from the Lidar Scan: 
+X and Y values: -426.678 249.457
+Angle used (Theta - Radians): 2.61254
+Angle used (Theta - Degree): 149.688
+Distance (Milimeters): 494.25
+
+Readings from the Lidar Scan: 
+X and Y values: -434.793 241.787
+Angle used (Theta - Radians): 2.63408
+Angle used (Theta - Degree): 150.922
+Distance (Milimeters): 497.5
+
+Readings from the Lidar Scan: 
+X and Y values: -433.218 226.272
+Angle used (Theta - Radians): 2.66026
+Angle used (Theta - Degree): 152.422
+Distance (Milimeters): 488.75
+
+Readings from the Lidar Scan: 
+X and Y values: -419.794 205.741
+Angle used (Theta - Radians): 2.6859
+Angle used (Theta - Degree): 153.891
+Distance (Milimeters): 467.5
+
+Readings from the Lidar Scan: 
+X and Y values: -713.379 289.811
+Angle used (Theta - Radians): 2.75571
+Angle used (Theta - Degree): 157.891
+Distance (Milimeters): 770
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 2.84325
+Angle used (Theta - Degree): 162.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -240.183 53.1792
+Angle used (Theta - Radians): 2.9237
+Angle used (Theta - Degree): 167.516
+Distance (Milimeters): 246
+
+Readings from the Lidar Scan: 
+X and Y values: -255.31 35.3852
+Angle used (Theta - Radians): 3.00387
+Angle used (Theta - Degree): 172.109
+Distance (Milimeters): 257.75
+
+Readings from the Lidar Scan: 
+X and Y values: -247.93 23.055
+Angle used (Theta - Radians): 3.04887
+Angle used (Theta - Degree): 174.688
+Distance (Milimeters): 249
+
+Readings from the Lidar Scan: 
+X and Y values: -2437.13 -648.748
+Angle used (Theta - Radians): 3.40175
+Angle used (Theta - Degree): 194.906
+Distance (Milimeters): 2522
+
+Readings from the Lidar Scan: 
+X and Y values: -2446.36 -711.593
+Angle used (Theta - Radians): 3.42466
+Angle used (Theta - Degree): 196.219
+Distance (Milimeters): 2547.75
+
+Readings from the Lidar Scan: 
+X and Y values: -0 -0
+Angle used (Theta - Radians): 3.53129
+Angle used (Theta - Degree): 202.328
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -182.573 -141.521
+Angle used (Theta - Radians): 3.801
+Angle used (Theta - Degree): 217.781
+Distance (Milimeters): 231
+
+Readings from the Lidar Scan: 
+X and Y values: -3664.76 -3056.39
+Angle used (Theta - Radians): 3.83672
+Angle used (Theta - Degree): 219.828
+Distance (Milimeters): 4772
+
+Readings from the Lidar Scan: 
+X and Y values: -616.092 -677.517
+Angle used (Theta - Radians): 3.97444
+Angle used (Theta - Degree): 227.719
+Distance (Milimeters): 915.75
+
+Readings from the Lidar Scan: 
+X and Y values: -584.759 -674.911
+Angle used (Theta - Radians): 3.99844
+Angle used (Theta - Degree): 229.094
+Distance (Milimeters): 893
+
+Readings from the Lidar Scan: 
+X and Y values: -559.033 -677.027
+Angle used (Theta - Radians): 4.02216
+Angle used (Theta - Degree): 230.453
+Distance (Milimeters): 878
+
+Readings from the Lidar Scan: 
+X and Y values: -546.953 -692.248
+Angle used (Theta - Radians): 4.04371
+Angle used (Theta - Degree): 231.688
+Distance (Milimeters): 882.25
+
+Readings from the Lidar Scan: 
+X and Y values: -528.738 -701.256
+Angle used (Theta - Radians): 4.06634
+Angle used (Theta - Degree): 232.984
+Distance (Milimeters): 878.25
+
+Readings from the Lidar Scan: 
+X and Y values: -514.526 -717.602
+Angle used (Theta - Radians): 4.09034
+Angle used (Theta - Degree): 234.359
+Distance (Milimeters): 883
+
+Readings from the Lidar Scan: 
+X and Y values: -499.751 -733.118
+Angle used (Theta - Radians): 4.11406
+Angle used (Theta - Degree): 235.719
+Distance (Milimeters): 887.25
+
+Readings from the Lidar Scan: 
+X and Y values: -485.14 -747.044
+Angle used (Theta - Radians): 4.13643
+Angle used (Theta - Degree): 237
+Distance (Milimeters): 890.75
+
+Readings from the Lidar Scan: 
+X and Y values: -425.215 -691.763
+Angle used (Theta - Radians): 4.16124
+Angle used (Theta - Degree): 238.422
+Distance (Milimeters): 812
+
+Readings from the Lidar Scan: 
+X and Y values: -396.873 -684.809
+Angle used (Theta - Radians): 4.18715
+Angle used (Theta - Degree): 239.906
+Distance (Milimeters): 791.5
+
+Readings from the Lidar Scan: 
+X and Y values: -384.182 -698.008
+Angle used (Theta - Radians): 4.20924
+Angle used (Theta - Degree): 241.172
+Distance (Milimeters): 796.75
+
+Readings from the Lidar Scan: 
+X and Y values: -366.202 -701.126
+Angle used (Theta - Radians): 4.23106
+Angle used (Theta - Degree): 242.422
+Distance (Milimeters): 791
+
+Readings from the Lidar Scan: 
+X and Y values: -344.776 -701.057
+Angle used (Theta - Radians): 4.25533
+Angle used (Theta - Degree): 243.812
+Distance (Milimeters): 781.25
+
+Readings from the Lidar Scan: 
+X and Y values: -325.434 -700.882
+Angle used (Theta - Radians): 4.27769
+Angle used (Theta - Degree): 245.094
+Distance (Milimeters): 772.75
+
+Readings from the Lidar Scan: 
+X and Y values: -304.464 -701.258
+Angle used (Theta - Radians): 4.30278
+Angle used (Theta - Degree): 246.531
+Distance (Milimeters): 764.5
+
+Readings from the Lidar Scan: 
+X and Y values: -273.837 -677.232
+Angle used (Theta - Radians): 4.32814
+Angle used (Theta - Degree): 247.984
+Distance (Milimeters): 730.5
+
+Readings from the Lidar Scan: 
+X and Y values: -264.377 -694.373
+Angle used (Theta - Radians): 4.34859
+Angle used (Theta - Degree): 249.156
+Distance (Milimeters): 743
+
+Readings from the Lidar Scan: 
+X and Y values: -239.775 -681.818
+Angle used (Theta - Radians): 4.37423
+Angle used (Theta - Degree): 250.625
+Distance (Milimeters): 722.75
+
+Readings from the Lidar Scan: 
+X and Y values: -219.22 -675.309
+Angle used (Theta - Radians): 4.3985
+Angle used (Theta - Degree): 252.016
+Distance (Milimeters): 710
+
+Readings from the Lidar Scan: 
+X and Y values: -203.037 -679.306
+Angle used (Theta - Radians): 4.42195
+Angle used (Theta - Degree): 253.359
+Distance (Milimeters): 709
+
+Readings from the Lidar Scan: 
+X and Y values: -189.835 -685.967
+Angle used (Theta - Radians): 4.4424
+Angle used (Theta - Degree): 254.531
+Distance (Milimeters): 711.75
+
+Readings from the Lidar Scan: 
+X and Y values: -178.466 -708.365
+Angle used (Theta - Radians): 4.46558
+Angle used (Theta - Degree): 255.859
+Distance (Milimeters): 730.5
+
+Readings from the Lidar Scan: 
+X and Y values: -161.054 -713.55
+Angle used (Theta - Radians): 4.4904
+Angle used (Theta - Degree): 257.281
+Distance (Milimeters): 731.5
+
+Readings from the Lidar Scan: 
+X and Y values: -147.835 -730.695
+Angle used (Theta - Radians): 4.51276
+Angle used (Theta - Degree): 258.562
+Distance (Milimeters): 745.5
+
+Readings from the Lidar Scan: 
+X and Y values: -130.99 -734.664
+Angle used (Theta - Radians): 4.53594
+Angle used (Theta - Degree): 259.891
+Distance (Milimeters): 746.25
+
+Readings from the Lidar Scan: 
+X and Y values: -119.703 -757.095
+Angle used (Theta - Radians): 4.55558
+Angle used (Theta - Degree): 261.016
+Distance (Milimeters): 766.5
+
+Readings from the Lidar Scan: 
+X and Y values: -98.1775 -741.025
+Angle used (Theta - Radians): 4.58067
+Angle used (Theta - Degree): 262.453
+Distance (Milimeters): 747.5
+
+Readings from the Lidar Scan: 
+X and Y values: -79.6413 -740.228
+Angle used (Theta - Radians): 4.60521
+Angle used (Theta - Degree): 263.859
+Distance (Milimeters): 744.5
+
+Readings from the Lidar Scan: 
+X and Y values: -61.8025 -731.644
+Angle used (Theta - Radians): 4.62812
+Angle used (Theta - Degree): 265.172
+Distance (Milimeters): 734.25
+
+Readings from the Lidar Scan: 
+X and Y values: -44.2478 -723.398
+Angle used (Theta - Radians): 4.6513
+Angle used (Theta - Degree): 266.5
+Distance (Milimeters): 724.75
+
+Readings from the Lidar Scan: 
+X and Y values: -27.3457 -720.982
+Angle used (Theta - Radians): 4.67448
+Angle used (Theta - Degree): 267.828
+Distance (Milimeters): 721.5
+
+Readings from the Lidar Scan: 
+X and Y values: -10.7195 -727.671
+Angle used (Theta - Radians): 4.69766
+Angle used (Theta - Degree): 269.156
+Distance (Milimeters): 727.75
+
+Readings from the Lidar Scan: 
+X and Y values: 6.04905 -739.725
+Angle used (Theta - Radians): 4.72057
+Angle used (Theta - Degree): 270.469
+Distance (Milimeters): 739.75
+
+Readings from the Lidar Scan: 
+X and Y values: 106.616 -1924.05
+Angle used (Theta - Radians): 4.76774
+Angle used (Theta - Degree): 273.172
+Distance (Milimeters): 1927
+
+Readings from the Lidar Scan: 
+X and Y values: 149.475 -1919.44
+Angle used (Theta - Radians): 4.79011
+Angle used (Theta - Degree): 274.453
+Distance (Milimeters): 1925.25
+
+Readings from the Lidar Scan: 
+X and Y values: 235.509 -1931.19
+Angle used (Theta - Radians): 4.83374
+Angle used (Theta - Degree): 276.953
+Distance (Milimeters): 1945.5
+
+Readings from the Lidar Scan: 
+X and Y values: 278.227 -1911.61
+Angle used (Theta - Radians): 4.85692
+Angle used (Theta - Degree): 278.281
+Distance (Milimeters): 1931.75
+
+Readings from the Lidar Scan: 
+X and Y values: 325.398 -1925.19
+Angle used (Theta - Radians): 4.87983
+Angle used (Theta - Degree): 279.594
+Distance (Milimeters): 1952.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 4.88419
+Angle used (Theta - Degree): 279.844
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 368.465 -1909.53
+Angle used (Theta - Radians): 4.90301
+Angle used (Theta - Degree): 280.922
+Distance (Milimeters): 1944.75
+
+Readings from the Lidar Scan: 
+X and Y values: 412.318 -1901.56
+Angle used (Theta - Radians): 4.92591
+Angle used (Theta - Degree): 282.234
+Distance (Milimeters): 1945.75
+
+Readings from the Lidar Scan: 
+X and Y values: 457.414 -1900.74
+Angle used (Theta - Radians): 4.94855
+Angle used (Theta - Degree): 283.531
+Distance (Milimeters): 1955
+
+Readings from the Lidar Scan: 
+X and Y values: 500.707 -1883.07
+Angle used (Theta - Radians): 4.97228
+Angle used (Theta - Degree): 284.891
+Distance (Milimeters): 1948.5
+
+Readings from the Lidar Scan: 
+X and Y values: 1630.77 -4918.45
+Angle used (Theta - Radians): 5.03254
+Angle used (Theta - Degree): 288.344
+Distance (Milimeters): 5181.75
+
+Readings from the Lidar Scan: 
+X and Y values: 1754.59 -4903.8
+Angle used (Theta - Radians): 5.056
+Angle used (Theta - Degree): 289.688
+Distance (Milimeters): 5208.25
+
+Readings from the Lidar Scan: 
+X and Y values: 1882.31 -4907.65
+Angle used (Theta - Radians): 5.07863
+Angle used (Theta - Degree): 290.984
+Distance (Milimeters): 5256.25
+
+Readings from the Lidar Scan: 
+X and Y values: 1996.22 -4871.89
+Angle used (Theta - Radians): 5.10127
+Angle used (Theta - Degree): 292.281
+Distance (Milimeters): 5265
+
+Readings from the Lidar Scan: 
+X and Y values: 2122.8 -4860.4
+Angle used (Theta - Radians): 5.12417
+Angle used (Theta - Degree): 293.594
+Distance (Milimeters): 5303.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.13645
+Angle used (Theta - Degree): 294.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 1142.57 -2429.49
+Angle used (Theta - Radians): 5.15199
+Angle used (Theta - Degree): 295.188
+Distance (Milimeters): 2684.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.15935
+Angle used (Theta - Degree): 295.609
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 1177.26 -2359.63
+Angle used (Theta - Radians): 5.17517
+Angle used (Theta - Degree): 296.516
+Distance (Milimeters): 2637
+
+Readings from the Lidar Scan: 
+X and Y values: 1238.76 -2348.3
+Angle used (Theta - Radians): 5.1978
+Angle used (Theta - Degree): 297.812
+Distance (Milimeters): 2655
+
+Readings from the Lidar Scan: 
+X and Y values: 2720.47 -4667.84
+Angle used (Theta - Radians): 5.24007
+Angle used (Theta - Degree): 300.234
+Distance (Milimeters): 5402.75
+
+Readings from the Lidar Scan: 
+X and Y values: 2835.78 -4616.31
+Angle used (Theta - Radians): 5.26325
+Angle used (Theta - Degree): 301.562
+Distance (Milimeters): 5417.75
+
+Readings from the Lidar Scan: 
+X and Y values: 2984.88 -4618.39
+Angle used (Theta - Radians): 5.28616
+Angle used (Theta - Degree): 302.875
+Distance (Milimeters): 5499
+
+Readings from the Lidar Scan: 
+X and Y values: 3130.18 -4602.73
+Angle used (Theta - Radians): 5.30961
+Angle used (Theta - Degree): 304.219
+Distance (Milimeters): 5566.25
+
+Readings from the Lidar Scan: 
+X and Y values: 3236.17 -4534.37
+Angle used (Theta - Radians): 5.33225
+Angle used (Theta - Degree): 305.516
+Distance (Milimeters): 5570.75
+
+Readings from the Lidar Scan: 
+X and Y values: 3389.83 -4526.69
+Angle used (Theta - Radians): 5.35516
+Angle used (Theta - Degree): 306.828
+Distance (Milimeters): 5655.25
+
+Readings from the Lidar Scan: 
+X and Y values: 4319.98 -4569.79
+Angle used (Theta - Radians): 5.46969
+Angle used (Theta - Degree): 313.391
+Distance (Milimeters): 6288.5
+
+Readings from the Lidar Scan: 
+X and Y values: 4817.43 -4438.63
+Angle used (Theta - Radians): 5.53869
+Angle used (Theta - Degree): 317.344
+Distance (Milimeters): 6550.5
+
+Readings from the Lidar Scan: 
+X and Y values: 4922.02 -4328.42
+Angle used (Theta - Radians): 5.56187
+Angle used (Theta - Degree): 318.672
+Distance (Milimeters): 6554.5
+
+Readings from the Lidar Scan: 
+X and Y values: 5080.17 -4267.53
+Angle used (Theta - Radians): 5.5845
+Angle used (Theta - Degree): 319.969
+Distance (Milimeters): 6634.75
+
+Readings from the Lidar Scan: 
+X and Y values: 5224.15 -4185.84
+Angle used (Theta - Radians): 5.60768
+Angle used (Theta - Degree): 321.297
+Distance (Milimeters): 6694.25
+
+Readings from the Lidar Scan: 
+X and Y values: 5408.17 -4138.17
+Angle used (Theta - Radians): 5.63005
+Angle used (Theta - Degree): 322.578
+Distance (Milimeters): 6809.75
+
+Readings from the Lidar Scan: 
+X and Y values: 5621.51 -4100.72
+Angle used (Theta - Radians): 5.65295
+Angle used (Theta - Degree): 323.891
+Distance (Milimeters): 6958.25
+
+Readings from the Lidar Scan: 
+X and Y values: 5849.04 -4064.76
+Angle used (Theta - Radians): 5.67586
+Angle used (Theta - Degree): 325.203
+Distance (Milimeters): 7122.75
+
+Readings from the Lidar Scan: 
+X and Y values: 819.837 -464.437
+Angle used (Theta - Radians): 5.76776
+Angle used (Theta - Degree): 330.469
+Distance (Milimeters): 942.25
+
+Readings from the Lidar Scan: 
+X and Y values: 802.519 -430.086
+Angle used (Theta - Radians): 5.79122
+Angle used (Theta - Degree): 331.812
+Distance (Milimeters): 910.5
+
+Readings from the Lidar Scan: 
+X and Y values: 796.426 -401.709
+Angle used (Theta - Radians): 5.81603
+Angle used (Theta - Degree): 333.234
+Distance (Milimeters): 892
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 5.98484
+Angle used (Theta - Degree): 342.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.00775
+Angle used (Theta - Degree): 344.219
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 194.77 -53.5583
+Angle used (Theta - Radians): 6.01484
+Angle used (Theta - Degree): 344.625
+Distance (Milimeters): 202
+
+Readings from the Lidar Scan: 
+X and Y values: 189.156 -47.3821
+Angle used (Theta - Radians): 6.03774
+Angle used (Theta - Degree): 345.938
+Distance (Milimeters): 195
+
+Readings from the Lidar Scan: 
+X and Y values: 190.679 -43.1473
+Angle used (Theta - Radians): 6.06065
+Angle used (Theta - Degree): 347.25
+Distance (Milimeters): 195.5
+
+Readings from the Lidar Scan: 
+X and Y values: 186.482 -37.6765
+Angle used (Theta - Radians): 6.08383
+Angle used (Theta - Degree): 348.578
+Distance (Milimeters): 190.25
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.12256
+Angle used (Theta - Degree): 350.797
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.14546
+Angle used (Theta - Degree): 352.109
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.16837
+Angle used (Theta - Degree): 353.422
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.19128
+Angle used (Theta - Degree): 354.734
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 -0
+Angle used (Theta - Radians): 6.21419
+Angle used (Theta - Degree): 356.047
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0
+Angle used (Theta - Degree): 0
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 154.127 10.7353
+Angle used (Theta - Radians): 0.0695404
+Angle used (Theta - Degree): 3.98438
+Distance (Milimeters): 154.5
+
+Readings from the Lidar Scan: 
+X and Y values: 145.622 13.541
+Angle used (Theta - Radians): 0.0927205
+Angle used (Theta - Degree): 5.3125
+Distance (Milimeters): 146.25
+
+Readings from the Lidar Scan: 
+X and Y values: 147.012 17.0748
+Angle used (Theta - Radians): 0.115628
+Angle used (Theta - Degree): 6.625
+Distance (Milimeters): 148
+
+Readings from the Lidar Scan: 
+X and Y values: 146.081 20.4085
+Angle used (Theta - Radians): 0.138808
+Angle used (Theta - Degree): 7.95312
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 145.582 23.7095
+Angle used (Theta - Radians): 0.161443
+Angle used (Theta - Degree): 9.25
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 144.993 27.0774
+Angle used (Theta - Radians): 0.184623
+Angle used (Theta - Degree): 10.5781
+Distance (Milimeters): 147.5
+
+Readings from the Lidar Scan: 
+X and Y values: 146.79 30.8666
+Angle used (Theta - Radians): 0.207258
+Angle used (Theta - Degree): 11.875
+Distance (Milimeters): 150
+
+Readings from the Lidar Scan: 
+X and Y values: 174.262 84.1126
+Angle used (Theta - Radians): 0.449695
+Angle used (Theta - Degree): 25.7656
+Distance (Milimeters): 193.5
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.458421
+Angle used (Theta - Degree): 26.2656
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 168.944 96.3759
+Angle used (Theta - Radians): 0.518417
+Angle used (Theta - Degree): 29.7031
+Distance (Milimeters): 194.5
+
+Readings from the Lidar Scan: 
+X and Y values: 170.791 102.621
+Angle used (Theta - Radians): 0.541052
+Angle used (Theta - Degree): 31
+Distance (Milimeters): 199.25
+
+Readings from the Lidar Scan: 
+X and Y values: 173.044 109.446
+Angle used (Theta - Radians): 0.563959
+Angle used (Theta - Degree): 32.3125
+Distance (Milimeters): 204.75
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.619046
+Angle used (Theta - Degree): 35.4688
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 205.838 153.882
+Angle used (Theta - Radians): 0.641953
+Angle used (Theta - Degree): 36.7812
+Distance (Milimeters): 257
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.664861
+Angle used (Theta - Degree): 38.0938
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 0.687768
+Angle used (Theta - Degree): 39.4062
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 187.632 261.991
+Angle used (Theta - Radians): 0.949295
+Angle used (Theta - Degree): 54.3906
+Distance (Milimeters): 322.25
+
+Readings from the Lidar Scan: 
+X and Y values: 175.595 258.198
+Angle used (Theta - Radians): 0.973566
+Angle used (Theta - Degree): 55.7812
+Distance (Milimeters): 312.25
+
+Readings from the Lidar Scan: 
+X and Y values: 169.427 258.111
+Angle used (Theta - Radians): 0.989928
+Angle used (Theta - Degree): 56.7188
+Distance (Milimeters): 308.75
+
+Readings from the Lidar Scan: 
+X and Y values: 157.672 259.037
+Angle used (Theta - Radians): 1.02402
+Angle used (Theta - Degree): 58.6719
+Distance (Milimeters): 303.25
+
+Readings from the Lidar Scan: 
+X and Y values: 152.262 258.489
+Angle used (Theta - Radians): 1.03847
+Angle used (Theta - Degree): 59.5
+Distance (Milimeters): 300
+
+Readings from the Lidar Scan: 
+X and Y values: 144.068 258.574
+Angle used (Theta - Radians): 1.06247
+Angle used (Theta - Degree): 60.875
+Distance (Milimeters): 296
+
+Readings from the Lidar Scan: 
+X and Y values: 132.821 260.324
+Angle used (Theta - Radians): 1.09901
+Angle used (Theta - Degree): 62.9688
+Distance (Milimeters): 292.25
+
+Readings from the Lidar Scan: 
+X and Y values: 128.265 258.14
+Angle used (Theta - Radians): 1.10965
+Angle used (Theta - Degree): 63.5781
+Distance (Milimeters): 288.25
+
+Readings from the Lidar Scan: 
+X and Y values: 120.511 260.473
+Angle used (Theta - Radians): 1.13746
+Angle used (Theta - Degree): 65.1719
+Distance (Milimeters): 287
+
+Readings from the Lidar Scan: 
+X and Y values: 111.118 260.001
+Angle used (Theta - Radians): 1.16692
+Angle used (Theta - Degree): 66.8594
+Distance (Milimeters): 282.75
+
+Readings from the Lidar Scan: 
+X and Y values: 106.66 259.7
+Angle used (Theta - Radians): 1.1811
+Angle used (Theta - Degree): 67.6719
+Distance (Milimeters): 280.75
+
+Readings from the Lidar Scan: 
+X and Y values: 95.3442 255.009
+Angle used (Theta - Radians): 1.213
+Angle used (Theta - Degree): 69.5
+Distance (Milimeters): 272.25
+
+Readings from the Lidar Scan: 
+X and Y values: 75.0346 262.486
+Angle used (Theta - Radians): 1.29236
+Angle used (Theta - Degree): 74.0469
+Distance (Milimeters): 273
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.30681
+Angle used (Theta - Degree): 74.875
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 69.8974 262.866
+Angle used (Theta - Radians): 1.3109
+Angle used (Theta - Degree): 75.1094
+Distance (Milimeters): 272
+
+Readings from the Lidar Scan: 
+X and Y values: 0 0
+Angle used (Theta - Radians): 1.32999
+Angle used (Theta - Degree): 76.2031
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: 63.8643 262.853
+Angle used (Theta - Radians): 1.33245
+Angle used (Theta - Degree): 76.3438
+Distance (Milimeters): 270.5
+
+Readings from the Lidar Scan: 
+X and Y values: 58.867 262.48
+Angle used (Theta - Radians): 1.35017
+Angle used (Theta - Degree): 77.3594
+Distance (Milimeters): 269
+
+Readings from the Lidar Scan: 
+X and Y values: 51.2328 262.803
+Angle used (Theta - Radians): 1.37826
+Angle used (Theta - Degree): 78.9688
+Distance (Milimeters): 267.75
+
+Readings from the Lidar Scan: 
+X and Y values: 42.6311 263.575
+Angle used (Theta - Radians): 1.41044
+Angle used (Theta - Degree): 80.8125
+Distance (Milimeters): 267
+
+Readings from the Lidar Scan: 
+X and Y values: 40.2539 263.442
+Angle used (Theta - Radians): 1.41917
+Angle used (Theta - Degree): 81.3125
+Distance (Milimeters): 266.5
+
+Readings from the Lidar Scan: 
+X and Y values: 33.929 263.827
+Angle used (Theta - Radians): 1.4429
+Angle used (Theta - Degree): 82.6719
+Distance (Milimeters): 266
+
+Readings from the Lidar Scan: 
+X and Y values: 28.2486 263.239
+Angle used (Theta - Radians): 1.46389
+Angle used (Theta - Degree): 83.875
+Distance (Milimeters): 264.75
+
+Readings from the Lidar Scan: 
+X and Y values: 21.7693 262.85
+Angle used (Theta - Radians): 1.48816
+Angle used (Theta - Degree): 85.2656
+Distance (Milimeters): 263.75
+
+Readings from the Lidar Scan: 
+X and Y values: 15.111 262.315
+Angle used (Theta - Radians): 1.51325
+Angle used (Theta - Degree): 86.7031
+Distance (Milimeters): 262.75
+
+Readings from the Lidar Scan: 
+X and Y values: 7.91859 263.881
+Angle used (Theta - Radians): 1.5408
+Angle used (Theta - Degree): 88.2812
+Distance (Milimeters): 264
+
+Readings from the Lidar Scan: 
+X and Y values: -0.866039 264.749
+Angle used (Theta - Radians): 1.57407
+Angle used (Theta - Degree): 90.1875
+Distance (Milimeters): 264.75
+
+Readings from the Lidar Scan: 
+X and Y values: -2.02884 265.742
+Angle used (Theta - Radians): 1.57843
+Angle used (Theta - Degree): 90.4375
+Distance (Milimeters): 265.75
+
+Readings from the Lidar Scan: 
+X and Y values: -8.50933 266.614
+Angle used (Theta - Radians): 1.6027
+Angle used (Theta - Degree): 91.8281
+Distance (Milimeters): 266.75
+
+Readings from the Lidar Scan: 
+X and Y values: -19.4234 267.295
+Angle used (Theta - Radians): 1.64334
+Angle used (Theta - Degree): 94.1562
+Distance (Milimeters): 268
+
+Readings from the Lidar Scan: 
+X and Y values: -21.1444 268.669
+Angle used (Theta - Radians): 1.64933
+Angle used (Theta - Degree): 94.5
+Distance (Milimeters): 269.5
+
+Readings from the Lidar Scan: 
+X and Y values: -25.9738 269.752
+Angle used (Theta - Radians): 1.66679
+Angle used (Theta - Degree): 95.5
+Distance (Milimeters): 271
+
+Readings from the Lidar Scan: 
+X and Y values: -33.8954 269.376
+Angle used (Theta - Radians): 1.69597
+Angle used (Theta - Degree): 97.1719
+Distance (Milimeters): 271.5
+
+Readings from the Lidar Scan: 
+X and Y values: -41.8204 269.272
+Angle used (Theta - Radians): 1.72487
+Angle used (Theta - Degree): 98.8281
+Distance (Milimeters): 272.5
+
+Readings from the Lidar Scan: 
+X and Y values: -46.4326 269.783
+Angle used (Theta - Radians): 1.74124
+Angle used (Theta - Degree): 99.7656
+Distance (Milimeters): 273.75
+
+Readings from the Lidar Scan: 
+X and Y values: -51.8969 271.331
+Angle used (Theta - Radians): 1.75978
+Angle used (Theta - Degree): 100.828
+Distance (Milimeters): 276.25
+
+Readings from the Lidar Scan: 
+X and Y values: -60.6486 274.633
+Angle used (Theta - Radians): 1.78814
+Angle used (Theta - Degree): 102.453
+Distance (Milimeters): 281.25
+
+Readings from the Lidar Scan: 
+X and Y values: -66.5148 275.072
+Angle used (Theta - Radians): 1.80805
+Angle used (Theta - Degree): 103.594
+Distance (Milimeters): 283
+
+Readings from the Lidar Scan: 
+X and Y values: -205.317 616.985
+Angle used (Theta - Radians): 1.89204
+Angle used (Theta - Degree): 108.406
+Distance (Milimeters): 650.25
+
+Readings from the Lidar Scan: 
+X and Y values: -216.712 607.238
+Angle used (Theta - Radians): 1.91359
+Angle used (Theta - Degree): 109.641
+Distance (Milimeters): 644.75
+
+Readings from the Lidar Scan: 
+X and Y values: -228.508 596.745
+Angle used (Theta - Radians): 1.9365
+Angle used (Theta - Degree): 110.953
+Distance (Milimeters): 639
+
+Readings from the Lidar Scan: 
+X and Y values: -240.797 586.762
+Angle used (Theta - Radians): 1.96022
+Angle used (Theta - Degree): 112.312
+Distance (Milimeters): 634.25
+
+Readings from the Lidar Scan: 
+X and Y values: -252.498 578.551
+Angle used (Theta - Radians): 1.98231
+Angle used (Theta - Degree): 113.578
+Distance (Milimeters): 631.25
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 1.99486
+Angle used (Theta - Degree): 114.297
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -264.859 566.381
+Angle used (Theta - Radians): 2.00822
+Angle used (Theta - Degree): 115.062
+Distance (Milimeters): 625.25
+
+Readings from the Lidar Scan: 
+X and Y values: -275.628 558.154
+Angle used (Theta - Radians): 2.02949
+Angle used (Theta - Degree): 116.281
+Distance (Milimeters): 622.5
+
+Readings from the Lidar Scan: 
+X and Y values: -286.999 549.856
+Angle used (Theta - Radians): 2.05185
+Angle used (Theta - Degree): 117.562
+Distance (Milimeters): 620.25
+
+Readings from the Lidar Scan: 
+X and Y values: -299.989 542.592
+Angle used (Theta - Radians): 2.07585
+Angle used (Theta - Degree): 118.938
+Distance (Milimeters): 620
+
+Readings from the Lidar Scan: 
+X and Y values: -311.99 532.308
+Angle used (Theta - Radians): 2.10094
+Angle used (Theta - Degree): 120.375
+Distance (Milimeters): 617
+
+Readings from the Lidar Scan: 
+X and Y values: -323.883 526.917
+Angle used (Theta - Radians): 2.12194
+Angle used (Theta - Degree): 121.578
+Distance (Milimeters): 618.5
+
+Readings from the Lidar Scan: 
+X and Y values: -336.775 299.596
+Angle used (Theta - Radians): 2.41455
+Angle used (Theta - Degree): 138.344
+Distance (Milimeters): 450.75
+
+Readings from the Lidar Scan: 
+X and Y values: -339.535 289.192
+Angle used (Theta - Radians): 2.4361
+Angle used (Theta - Degree): 139.578
+Distance (Milimeters): 446
+
+Readings from the Lidar Scan: 
+X and Y values: -348.315 281.746
+Angle used (Theta - Radians): 2.46146
+Angle used (Theta - Degree): 141.031
+Distance (Milimeters): 448
+
+Readings from the Lidar Scan: 
+X and Y values: -357.013 277.21
+Angle used (Theta - Radians): 2.48137
+Angle used (Theta - Degree): 142.172
+Distance (Milimeters): 452
+
+Readings from the Lidar Scan: 
+X and Y values: -363.685 270.498
+Angle used (Theta - Radians): 2.50209
+Angle used (Theta - Degree): 143.359
+Distance (Milimeters): 453.25
+
+Readings from the Lidar Scan: 
+X and Y values: -369.212 262.902
+Angle used (Theta - Radians): 2.52282
+Angle used (Theta - Degree): 144.547
+Distance (Milimeters): 453.25
+
+Readings from the Lidar Scan: 
+X and Y values: -394.636 268.384
+Angle used (Theta - Radians): 2.54436
+Angle used (Theta - Degree): 145.781
+Distance (Milimeters): 477.25
+
+Readings from the Lidar Scan: 
+X and Y values: -405.73 261.132
+Angle used (Theta - Radians): 2.56972
+Angle used (Theta - Degree): 147.234
+Distance (Milimeters): 482.5
+
+Readings from the Lidar Scan: 
+X and Y values: -414.749 255.25
+Angle used (Theta - Radians): 2.5899
+Angle used (Theta - Degree): 148.391
+Distance (Milimeters): 487
+
+Readings from the Lidar Scan: 
+X and Y values: -426.708 247.916
+Angle used (Theta - Radians): 2.61526
+Angle used (Theta - Degree): 149.844
+Distance (Milimeters): 493.5
+
+Readings from the Lidar Scan: 
+X and Y values: -435.473 241.077
+Angle used (Theta - Radians): 2.63599
+Angle used (Theta - Degree): 151.031
+Distance (Milimeters): 497.75
+
+Readings from the Lidar Scan: 
+X and Y values: -433.625 226.033
+Angle used (Theta - Radians): 2.66108
+Angle used (Theta - Degree): 152.469
+Distance (Milimeters): 489
+
+Readings from the Lidar Scan: 
+X and Y values: -424.786 208.619
+Angle used (Theta - Radians): 2.68508
+Angle used (Theta - Degree): 153.844
+Distance (Milimeters): 473.25
+
+Readings from the Lidar Scan: 
+X and Y values: -713.921 289.805
+Angle used (Theta - Radians): 2.75598
+Angle used (Theta - Degree): 157.906
+Distance (Milimeters): 770.5
+
+Readings from the Lidar Scan: 
+X and Y values: -0 0
+Angle used (Theta - Radians): 2.84325
+Angle used (Theta - Degree): 162.906
+Distance (Milimeters): 0
+
+Readings from the Lidar Scan: 
+X and Y values: -246.38 56.3868
+Angle used (Theta - Radians): 2.91661
+Angle used (Theta - Degree): 167.109
+Distance (Milimeters): 252.75
+
